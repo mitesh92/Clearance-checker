@@ -1,5 +1,9 @@
 {
-  "updated": "Oct 18, 2026 04:19 PM",
+  "updated": "Oct 18, 2026 08:01 PM",
   "deals": [],
-  "errors": []
+  "errors": [],
+  "items_scanned": {
+    "Home Depot": 100,
+    "Lowe's": 0
+  }
 }

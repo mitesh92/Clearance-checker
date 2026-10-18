@@ -1,0 +1,2011 @@
+[
+  {
+    "identifiers": {
+      "storeSkuNumber": "1012362054",
+      "canonicalUrl": "/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Integrated-LED-Tunable-White-Indoor-Under-Cabinet-Tape-Strip-Light-w-Remote-TAPE192-CCT-HD/331330566",
+      "brandName": "Commercial Electric",
+      "itemId": "331330566",
+      "productLabel": "16 ft. Plug-In/Hardwire Cuttable/Linkable Integrated LED Tunable White Indoor Under Cabinet Tape Strip Light w/Remote",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1012362054",
+      "specialOrderSku": null,
+      "parentId": "336302614",
+      "modelNumber": "TAPE192/CCT/HD",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "331330566",
+    "dataSources": "searchNav",
+    "badges": [
+      {
+        "name": "exclusive",
+        "label": "Exclusive",
+        "__typename": "Badge"
+      }
+    ],
+    "info": {
+      "isSponsored": null,
+      "sponsoredMetadata": null,
+      "sponsoredBeacon": null,
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Under Cabinet Strip Lights",
+      "classNumber": "1",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Lighting",
+        "Ambient Lighting",
+        "Under Cabinet Lighting",
+        "Under Cabinet Strip Lights"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [],
+      "totalNumberOfOptions": 2,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/07016dac-0843-48e9-8fd8-0b920d9303a0/svn/commercial-electric-led-strip-lights-tape192-cct-hd-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/ea9cfaef-2165-4c64-8800-1d0d7d1b7684/svn/commercial-electric-led-strip-lights-tape192-cct-hd-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 59.97,
+      "original": 59.97,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 0,
+        "percentageOff": 0,
+        "promotionTag": null,
+        "savingsCenter": null,
+        "savingsCenterPromos": "Buy One Get One",
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": 483342,
+          "skuItemGroup": "SRC-1",
+          "promotionTags": [
+            "BOGO"
+          ],
+          "eligibilityCriteria": [
+            {
+              "itemGroup": "SRC-1",
+              "minThresholdVal": 1,
+              "thresholdType": "QUANTITY",
+              "__typename": "EligibilityCriterion"
+            },
+            {
+              "itemGroup": "TGT-1",
+              "minThresholdVal": 1,
+              "thresholdType": "QUANTITY",
+              "__typename": "EligibilityCriterion"
+            }
+          ],
+          "reward": {
+            "tiers": [
+              {
+                "minThresholdVal": 1,
+                "thresholdType": "QUANTITY",
+                "rewardVal": 5,
+                "rewardType": "PERCNTOFF",
+                "rewardLevel": null,
+                "maxAllowedRewardAmount": null,
+                "__typename": "ConditionalPromoTier"
+              }
+            ],
+            "__typename": "ConditionalPromoReward"
+          },
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "4.0",
+        "totalReviews": "63",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "ACTIVE",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 8,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "bopis",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "tomorrow",
+              "deliveryDates": {
+                "startDate": "2026-10-19",
+                "endDate": "2026-10-19",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 49,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            },
+            {
+              "deliveryTimeline": "today",
+              "deliveryDates": {
+                "startDate": "2026-10-18",
+                "endDate": "2026-10-18",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 29,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "express delivery",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": [
+            {
+              "date": "2026-10-18",
+              "timeline": "2 Hours",
+              "totalCharge": 0,
+              "__typename": "PriorityDeliveryOption"
+            }
+          ],
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": null,
+        "url": null,
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Novelty Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "LED Strip Lights",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Shared",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Product Length (ft.)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "16 ft",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Power Source",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Plug-In (Wall)",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Mounting Method",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Adhesive",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Control Type",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Remote",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Cuttable",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "LED Strip Lights",
+    "categoryPath": "Accent Lighting > LED Strip Lights",
+    "URL": "https://homedepot.com/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Integrated-LED-Tunable-White-Indoor-Under-Cabinet-Tape-Strip-Light-w-Remote-TAPE192-CCT-HD/331330566?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1016160109",
+      "canonicalUrl": "/p/TJOY-400-ft-Plug-in-RGB-Color-Changing-Permanent-Eave-LED-Strip-Light-Dimmable-IP65-Waterproof-Christmas-Tape-Lights-CWY021/343332605",
+      "brandName": "TJOY",
+      "itemId": "343332605",
+      "productLabel": "400 ft. Plug-in RGB Color Changing Permanent Eave LED Strip Light, Dimmable IP65 Waterproof Christmas Tape Lights",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1016160109",
+      "specialOrderSku": null,
+      "parentId": "343332211",
+      "modelNumber": "CWY021",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "343332605",
+    "dataSources": "searchNav",
+    "badges": [
+      {
+        "name": "new",
+        "label": "New",
+        "__typename": "Badge"
+      }
+    ],
+    "info": {
+      "isSponsored": true,
+      "sponsoredMetadata": {
+        "campaignId": "9644615",
+        "placementId": "23",
+        "slotId": "e567f452-a0e6-4356-bc06-49745eb0312f",
+        "sponsoredId": "7f1ab011-17eb-474c-92aa-2800ffe865c5",
+        "trackSource": "VANTAGE",
+        "__typename": "SponsoredMetadata"
+      },
+      "sponsoredBeacon": {
+        "onClickBeacon": "//rmat.homedepot.com/pla-tracker/click/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A==",
+        "onViewBeacon": "//rmat.homedepot.com/pla-tracker/impression/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A==",
+        "onClickBeacons": [
+          "//rmat.homedepot.com/pla-tracker/click/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A=="
+        ],
+        "onViewBeacons": [
+          "//rmat.homedepot.com/pla-tracker/impression/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A=="
+        ],
+        "__typename": "SponsoredBeacon"
+      },
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Under Cabinet Strip Lights",
+      "classNumber": "1",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Lighting",
+        "Ambient Lighting",
+        "Under Cabinet Lighting",
+        "Under Cabinet Strip Lights"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [],
+      "totalNumberOfOptions": 5,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/477370efdc6e48f8a95d149be4276cd6/svn/tjoy-led-strip-lights-cwy021-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 94.98,
+      "original": 99.99,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 5.01,
+        "percentageOff": 5,
+        "promotionTag": null,
+        "savingsCenter": "Special Buys",
+        "savingsCenterPromos": "Special Buys",
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": null,
+          "skuItemGroup": null,
+          "promotionTags": null,
+          "eligibilityCriteria": null,
+          "reward": null,
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "0.000000",
+        "totalReviews": "0",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "DELETED",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "GU,PR,VI",
+      "excludedShipStates": "GU,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 135,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "boss",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "later",
+              "deliveryDates": {
+                "startDate": "2026-10-22",
+                "endDate": "2026-10-26",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 135,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": null,
+        "url": null,
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Novelty Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "LED Strip Lights",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Online",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Product Length (ft.)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "400 ft",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Power Source",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Plug-In (Wall)",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Mounting Method",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Adhesive",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Dimmable",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Control Type",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Remote",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "LED Strip Lights",
+    "categoryPath": "Accent Lighting > LED Strip Lights",
+    "URL": "https://homedepot.com/p/TJOY-400-ft-Plug-in-RGB-Color-Changing-Permanent-Eave-LED-Strip-Light-Dimmable-IP65-Waterproof-Christmas-Tape-Lights-CWY021/343332605?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1007938336",
+      "canonicalUrl": "/p/Govee-RGBICW-49-2-ft-Smart-Plug-in-Dimmable-Uncuttable-Color-Changing-Integrated-LED-Strip-Light-1-Pack-H612DAD1/331606229",
+      "brandName": "Govee",
+      "itemId": "331606229",
+      "productLabel": "RGBICW 49.2 ft. Smart Plug-in Dimmable Uncuttable Color-Changing Integrated LED Strip Light (1-Pack)",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1007938336",
+      "specialOrderSku": null,
+      "parentId": "332399402",
+      "modelNumber": "H612DAD1",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "331606229",
+    "dataSources": "searchNav",
+    "badges": [],
+    "info": {
+      "isSponsored": null,
+      "sponsoredMetadata": null,
+      "sponsoredBeacon": null,
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Under Cabinet Strip Lights",
+      "classNumber": "1",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Lighting",
+        "Ambient Lighting",
+        "Under Cabinet Lighting",
+        "Under Cabinet Strip Lights"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [],
+      "totalNumberOfOptions": 3,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/1a678c72-9733-43be-bd1c-050047fa3e0a/svn/govee-led-strip-lights-h612dad1-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/a80f64b6-6169-4d1e-87ee-19fafefc1c64/svn/govee-led-strip-lights-h612dad1-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 56.9,
+      "original": 56.9,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 0,
+        "percentageOff": 0,
+        "promotionTag": null,
+        "savingsCenter": null,
+        "savingsCenterPromos": null,
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": null,
+          "skuItemGroup": null,
+          "promotionTags": null,
+          "eligibilityCriteria": null,
+          "reward": null,
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "4.2547",
+        "totalReviews": "106",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "ACTIVE",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 14,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "bopis",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "tomorrow",
+              "deliveryDates": {
+                "startDate": "2026-10-19",
+                "endDate": "2026-10-19",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 69,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            },
+            {
+              "deliveryTimeline": "today",
+              "deliveryDates": {
+                "startDate": "2026-10-18",
+                "endDate": "2026-10-18",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 67,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "express delivery",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": [
+            {
+              "date": "2026-10-18",
+              "timeline": "2 Hours",
+              "totalCharge": 0,
+              "__typename": "PriorityDeliveryOption"
+            }
+          ],
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": null,
+        "url": null,
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Novelty Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "LED Strip Lights",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Shared",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Product Length (ft.)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "49.2 ft",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Power Source",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Plug-In (Wall)",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Dimmable",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Mounting Method",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Adhesive",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Control Type",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "App",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "LED Strip Lights",
+    "categoryPath": "Accent Lighting > LED Strip Lights",
+    "URL": "https://homedepot.com/p/Govee-RGBICW-49-2-ft-Smart-Plug-in-Dimmable-Uncuttable-Color-Changing-Integrated-LED-Strip-Light-1-Pack-H612DAD1/331606229?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1009579018",
+      "canonicalUrl": "/p/EcoSmart-16-4-ft-Smart-RGBWIC-Dynamic-Color-Changing-Dimmable-Plug-In-LED-Strip-Light-Powered-by-Hubspace-AL-TP-RGBICTW-1/324731686",
+      "brandName": "EcoSmart",
+      "itemId": "324731686",
+      "productLabel": "16.4 ft. Smart RGBWIC Dynamic Color Changing Dimmable Plug-In LED Strip Light Powered by Hubspace",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1009579018",
+      "specialOrderSku": null,
+      "parentId": "327696797",
+      "modelNumber": "AL-TP-RGBICTW-1",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "324731686",
+    "dataSources": "searchNav",
+    "badges": [
+      {
+        "name": "exclusive",
+        "label": "Exclusive",
+        "__typename": "Badge"
+      }
+    ],
+    "info": {
+      "isSponsored": null,
+      "sponsoredMetadata": null,
+      "sponsoredBeacon": null,
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Under Cabinet Strip Lights",
+      "classNumber": "1",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 5,
+      "categoryHierarchy": [
+        "Lighting",
+        "Ambient Lighting",
+        "Under Cabinet Lighting",
+        "Under Cabinet Strip Lights"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [],
+      "totalNumberOfOptions": 3,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/9bc05a26-3ad7-4e4d-a0a6-fb91ad5f5390/svn/ecosmart-led-strip-lights-al-tp-rgbictw-1-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/4f7fa355-1740-4268-9b25-ac3069671d7a/svn/ecosmart-led-strip-lights-al-tp-rgbictw-1-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 24.98,
+      "original": 29.98,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 5,
+        "percentageOff": 17,
+        "promotionTag": null,
+        "savingsCenter": null,
+        "savingsCenterPromos": null,
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": 461414,
+          "skuItemGroup": "SRC-1",
+          "promotionTags": [
+            "MSB"
+          ],
+          "eligibilityCriteria": [
+            {
+              "itemGroup": "SRC-1",
+              "minThresholdVal": 4,
+              "thresholdType": "QUANTITY",
+              "__typename": "EligibilityCriterion"
+            }
+          ],
+          "reward": {
+            "tiers": [
+              {
+                "minThresholdVal": 4,
+                "thresholdType": "QUANTITY",
+                "rewardVal": 20,
+                "rewardType": "PERCNTOFF",
+                "rewardLevel": null,
+                "maxAllowedRewardAmount": null,
+                "__typename": "ConditionalPromoTier"
+              }
+            ],
+            "__typename": "ConditionalPromoReward"
+          },
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "3.8932",
+        "totalReviews": "206",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "ACTIVE",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 31,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "bopis",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "tomorrow",
+              "deliveryDates": {
+                "startDate": "2026-10-19",
+                "endDate": "2026-10-19",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 31,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "express delivery",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": true,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": [
+            {
+              "date": "2026-10-18",
+              "timeline": "2 Hours",
+              "totalCharge": 2.99,
+              "__typename": "PriorityDeliveryOption"
+            },
+            {
+              "date": "2026-10-18",
+              "timeline": "today",
+              "totalCharge": 2.99,
+              "__typename": "PriorityDeliveryOption"
+            }
+          ],
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": "Dynamic Color Strip Lights",
+        "url": "/collection/Lighting/Dynamic-Color-Strip-Lights/Family-327971628?omsid=324731686",
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Novelty Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "LED Strip Lights",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Shared",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Product Length (ft.)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "16.4 ft",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Power Source",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Plug-In (Wall)",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Mounting Method",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Adhesive",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Light Bulb Type Included",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Integrated LED",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Control Type",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "App",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "LED Strip Lights",
+    "categoryPath": "Accent Lighting > LED Strip Lights",
+    "URL": "https://homedepot.com/p/EcoSmart-16-4-ft-Smart-RGBWIC-Dynamic-Color-Changing-Dimmable-Plug-In-LED-Strip-Light-Powered-by-Hubspace-AL-TP-RGBICTW-1/324731686?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1008637665",
+      "canonicalUrl": "/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Dimmable-Integrated-LED-3000K-Indoor-Seamless-Tape-Strip-Light-w-Remote-TAPE192-WCOB-HD/331330586",
+      "brandName": "Commercial Electric",
+      "itemId": "331330586",
+      "productLabel": "16 ft. Plug-In/Hardwire Cuttable/Linkable Dimmable Integrated LED 3000K Indoor Seamless Tape Strip Light w/Remote",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1008637665",
+      "specialOrderSku": null,
+      "parentId": "331330586",
+      "modelNumber": "TAPE192/WCOB/HD",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "331330586",
+    "dataSources": "searchNav",
+    "badges": [
+      {
+        "name": "bestseller",
+        "label": "Best Seller",
+        "__typename": "Badge"
+      },
+      {
+        "name": "exclusive",
+        "label": "Exclusive",
+        "__typename": "Badge"
+      }
+    ],
+    "info": {
+      "isSponsored": null,
+      "sponsoredMetadata": null,
+      "sponsoredBeacon": null,
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Under Cabinet Strip Lights",
+      "classNumber": "1",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Lighting",
+        "Ambient Lighting",
+        "Under Cabinet Lighting",
+        "Under Cabinet Strip Lights"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [],
+      "totalNumberOfOptions": null,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/97fc0911-1b34-404c-8df9-f1dcae1a3934/svn/commercial-electric-led-strip-lights-tape192-wcob-hd-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/2cbd7a3e-b7a9-4da9-a796-0ae84e067381/svn/commercial-electric-led-strip-lights-tape192-wcob-hd-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 69.98,
+      "original": 69.98,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 0,
+        "percentageOff": 0,
+        "promotionTag": null,
+        "savingsCenter": null,
+        "savingsCenterPromos": null,
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": null,
+          "skuItemGroup": null,
+          "promotionTags": null,
+          "eligibilityCriteria": null,
+          "reward": null,
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "3.4561",
+        "totalReviews": "57",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "ACTIVE",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": false,
+                    "isLimitedQuantity": true,
+                    "isUnavailable": false,
+                    "quantity": 0,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "bopis",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "tomorrow",
+              "deliveryDates": {
+                "startDate": "2026-10-19",
+                "endDate": "2026-10-19",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 86,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            },
+            {
+              "deliveryTimeline": "today",
+              "deliveryDates": {
+                "startDate": "2026-10-18",
+                "endDate": "2026-10-18",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 10,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "express delivery",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": [
+            {
+              "date": "2026-10-18",
+              "timeline": "2 Hours",
+              "totalCharge": 0,
+              "__typename": "PriorityDeliveryOption"
+            }
+          ],
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": null,
+        "url": null,
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Novelty Lighting",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "LED Strip Lights",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Shared",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Product Length (ft.)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "16 ft",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Power Source",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Plug-In (Wall)",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Dimmable",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Mounting Method",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Adhesive",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Cuttable",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "LED Strip Lights",
+    "categoryPath": "Accent Lighting > LED Strip Lights",
+    "URL": "https://homedepot.com/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Dimmable-Integrated-LED-3000K-Indoor-Seamless-Tape-Strip-Light-w-Remote-TAPE192-WCOB-HD/331330586?store=6643"
+  }
+]

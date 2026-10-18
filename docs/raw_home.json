@@ -1,16 +1,16 @@
 [
   {
     "identifiers": {
-      "storeSkuNumber": "1012362054",
-      "canonicalUrl": "/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Integrated-LED-Tunable-White-Indoor-Under-Cabinet-Tape-Strip-Light-w-Remote-TAPE192-CCT-HD/331330566",
-      "brandName": "Commercial Electric",
-      "itemId": "331330566",
-      "productLabel": "16 ft. Plug-In/Hardwire Cuttable/Linkable Integrated LED Tunable White Indoor Under Cabinet Tape Strip Light w/Remote",
+      "storeSkuNumber": "1002081929",
+      "canonicalUrl": "/p/MOEN-Adler-Single-Handle-4-Spray-Tub-and-Shower-Faucet-1-8-GPM-in-Chrome-Valve-Included-82603/300213962",
+      "brandName": "MOEN",
+      "itemId": "300213962",
+      "productLabel": "Adler Single Handle 4-Spray Tub and Shower Faucet 1.8 GPM in Chrome (Valve Included)",
       "productType": "MERCHANDISE",
-      "omsThdSku": "1012362054",
+      "omsThdSku": "1002081929",
       "specialOrderSku": null,
-      "parentId": "336302614",
-      "modelNumber": "TAPE192/CCT/HD",
+      "parentId": "320641691",
+      "modelNumber": "82603",
       "__typename": "Identifiers"
     },
     "installServices": {
@@ -18,9 +18,14 @@
       "gccCarpetDesignAndOrderEligible": false,
       "__typename": "InstallServices"
     },
-    "itemId": "331330566",
+    "itemId": "300213962",
     "dataSources": "searchNav",
     "badges": [
+      {
+        "name": "bestseller",
+        "label": "Best Seller",
+        "__typename": "Badge"
+      },
       {
         "name": "exclusive",
         "label": "Exclusive",
@@ -34,16 +39,15 @@
       "productSubType": null,
       "augmentedReality": false,
       "globalCustomConfigurator": null,
-      "productDepartment": "Under Cabinet Strip Lights",
-      "classNumber": "1",
+      "productDepartment": "Bathtub & Shower Faucet Combos",
+      "classNumber": "3",
       "hidePrice": false,
       "ecoRebate": false,
       "quantityLimit": 0,
       "categoryHierarchy": [
-        "Lighting",
-        "Ambient Lighting",
-        "Under Cabinet Lighting",
-        "Under Cabinet Strip Lights"
+        "Bath",
+        "Bathroom Faucets",
+        "Bathtub & Shower Faucet Combos"
       ],
       "sskMin": null,
       "sskMax": null,
@@ -56,7 +60,26 @@
       "returnable": "90-Day",
       "hasSubscription": false,
       "isLiveGoodsProduct": false,
-      "swatches": [],
+      "swatches": [
+        {
+          "isSelected": true,
+          "itemId": "300213962",
+          "label": "Chrome",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/e6/e6ba1efa-c058-49b9-a4da-4ff514a53495_35.jpg",
+          "url": "/p/MOEN-Adler-Single-Handle-4-Spray-Tub-and-Shower-Faucet-1-8-GPM-in-Chrome-Valve-Included-82603/300213962",
+          "value": "e6ba1efa-c058-49b9-a4da-4ff514a53495",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "300214048",
+          "label": "Spot Resist Brushed Nickel",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/31/31affd45-e534-5ecb-99a7-1b723a5565fa_35.jpg",
+          "url": "/p/MOEN-Adler-Single-Handle-4-Spray-Tub-and-Shower-Faucet-1-8-GPM-in-Spot-Resist-Brushed-Nickel-Valve-Included-82613SRN/300214048",
+          "value": "31affd45-e534-5ecb-99a7-1b723a5565fa",
+          "__typename": "Swatch"
+        }
+      ],
       "totalNumberOfOptions": 2,
       "samplesAvailable": false,
       "__typename": "Info"
@@ -64,7 +87,7 @@
     "media": {
       "images": [
         {
-          "url": "https://images.thdstatic.com/productImages/07016dac-0843-48e9-8fd8-0b920d9303a0/svn/commercial-electric-led-strip-lights-tape192-cct-hd-64_<SIZE>.jpg",
+          "url": "https://images.thdstatic.com/productImages/a96c1819-3c0e-4dea-bf0c-ead6d07eb686/svn/chrome-moen-bathtub-shower-faucet-combos-82603-64_<SIZE>.jpg",
           "type": "IMAGE",
           "subType": "PRIMARY",
           "sizes": [
@@ -79,7 +102,7 @@
           "__typename": "Image"
         },
         {
-          "url": "https://images.thdstatic.com/productImages/ea9cfaef-2165-4c64-8800-1d0d7d1b7684/svn/commercial-electric-led-strip-lights-tape192-cct-hd-e4_<SIZE>.jpg",
+          "url": "https://images.thdstatic.com/productImages/1196f02a-93fc-401a-9eda-19e482cd2d83/svn/chrome-moen-bathtub-shower-faucet-combos-82603-e4_<SIZE>.jpg",
           "type": "IMAGE",
           "subType": "SECONDARY",
           "sizes": [
@@ -97,11 +120,16 @@
       "__typename": "Media"
     },
     "pricing": {
-      "value": 59.97,
-      "original": 59.97,
+      "value": 89,
+      "original": 99,
       "alternatePriceDisplay": false,
       "alternate": {
-        "bulk": null,
+        "bulk": {
+          "pricePerUnit": null,
+          "thresholdQuantity": 3,
+          "value": 80.1,
+          "__typename": "BulkPricing"
+        },
         "unit": {
           "caseUnitOfMeasure": null,
           "unitsOriginalPrice": null,
@@ -118,11 +146,11 @@
       "promotion": {
         "type": null,
         "description": null,
-        "dollarOff": 0,
-        "percentageOff": 0,
+        "dollarOff": 10,
+        "percentageOff": 10,
         "promotionTag": null,
-        "savingsCenter": null,
-        "savingsCenterPromos": "Buy One Get One",
+        "savingsCenter": "Special Buys",
+        "savingsCenterPromos": "Special Buys",
         "specialBuySavings": null,
         "specialBuyDollarOff": null,
         "specialBuyPercentageOff": null,
@@ -135,21 +163,16 @@
       "unitOfMeasure": "each",
       "conditionalPromotions": [
         {
-          "promotionId": 483342,
+          "promotionId": 471338,
           "skuItemGroup": "SRC-1",
           "promotionTags": [
-            "BOGO"
+            "BULK",
+            "SSB"
           ],
           "eligibilityCriteria": [
             {
               "itemGroup": "SRC-1",
-              "minThresholdVal": 1,
-              "thresholdType": "QUANTITY",
-              "__typename": "EligibilityCriterion"
-            },
-            {
-              "itemGroup": "TGT-1",
-              "minThresholdVal": 1,
+              "minThresholdVal": 3,
               "thresholdType": "QUANTITY",
               "__typename": "EligibilityCriterion"
             }
@@ -157,9 +180,9 @@
           "reward": {
             "tiers": [
               {
-                "minThresholdVal": 1,
+                "minThresholdVal": 3,
                 "thresholdType": "QUANTITY",
-                "rewardVal": 5,
+                "rewardVal": 10,
                 "rewardType": "PERCNTOFF",
                 "rewardLevel": null,
                 "maxAllowedRewardAmount": null,
@@ -176,20 +199,23 @@
     },
     "reviews": {
       "ratingsReviews": {
-        "averageRating": "4.0",
-        "totalReviews": "63",
+        "averageRating": "4.1218",
+        "totalReviews": "1067",
         "__typename": "RatingsReviews"
       },
       "__typename": "Reviews"
     },
     "dataSource": "searchNav",
-    "favoriteDetail": null,
+    "favoriteDetail": {
+      "count": 5367,
+      "__typename": "FavoriteDetail"
+    },
     "fulfillment": {
       "anchorStoreStatus": false,
       "anchorStoreStatusType": "ACTIVE",
       "backordered": false,
       "backorderedShipDate": null,
-      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "bossExcludedShipStates": "PR,VI,GU",
       "excludedShipStates": "AK,GU,HI,PR,VI",
       "seasonStatusEligible": null,
       "fulfillmentOptions": [
@@ -214,7 +240,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 8,
+                    "quantity": 33,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -265,7 +291,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 49,
+                    "quantity": 114,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -308,7 +334,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 29,
+                    "quantity": 114,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -350,8 +376,8 @@
     },
     "details": {
       "collection": {
-        "name": null,
-        "url": null,
+        "name": "Adler Bathroom Collection in Chrome",
+        "url": "/collection/Bath/Adler-Bathroom-Collection-in-Chrome/Family-311464230?omsid=300213962",
         "__typename": "Collection"
       },
       "installation": null,
@@ -360,15 +386,15 @@
     "taxonomy": {
       "breadCrumbs": [
         {
-          "label": "Lighting",
+          "label": "Bath",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "Novelty Lighting",
+          "label": "Bathroom Faucets",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "LED Strip Lights",
+          "label": "Special Values",
           "__typename": "BreadCrumb"
         }
       ],
@@ -388,38 +414,38 @@
         {
           "features": [
             {
-              "name": "Product Length (ft.)",
+              "name": "Valve Included",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "16 ft",
+              "value": "Valve Included",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Power Source",
+              "name": "Shower Head Shape",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Plug-In (Wall)",
+              "value": "Round",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Mounting Method",
+              "name": "Flow rate (gallons per minute)",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Adhesive",
+              "value": "1.8",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Control Type",
+              "name": "Shower Head Size",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Remote",
+              "value": "Medium",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Features",
+              "name": "Number of Spray Patterns",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Cuttable",
+              "value": "4",
               "__typename": "KeyProductFeaturesFeature"
             }
           ],
@@ -432,22 +458,22 @@
     "bundleItems": null,
     "__typename": "BaseProduct",
     "isClearanceItem": false,
-    "categoryTitle": "LED Strip Lights",
-    "categoryPath": "Accent Lighting > LED Strip Lights",
-    "URL": "https://homedepot.com/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Integrated-LED-Tunable-White-Indoor-Under-Cabinet-Tape-Strip-Light-w-Remote-TAPE192-CCT-HD/331330566?store=6643"
+    "categoryTitle": "Bathroom Faucet Savings",
+    "categoryPath": "Bathroom Faucets > Bathroom Faucet Savings",
+    "URL": "https://homedepot.com/p/MOEN-Adler-Single-Handle-4-Spray-Tub-and-Shower-Faucet-1-8-GPM-in-Chrome-Valve-Included-82603/300213962?store=6643"
   },
   {
     "identifiers": {
-      "storeSkuNumber": "1016160109",
-      "canonicalUrl": "/p/TJOY-400-ft-Plug-in-RGB-Color-Changing-Permanent-Eave-LED-Strip-Light-Dimmable-IP65-Waterproof-Christmas-Tape-Lights-CWY021/343332605",
-      "brandName": "TJOY",
-      "itemId": "343332605",
-      "productLabel": "400 ft. Plug-in RGB Color Changing Permanent Eave LED Strip Light, Dimmable IP65 Waterproof Christmas Tape Lights",
+      "storeSkuNumber": "1015500913",
+      "canonicalUrl": "/p/GRANDJOY-10-in-2-Spray-Square-High-Pressure-Wall-Bar-Shower-Kit-with-Hand-Shower-2-5-GPM-in-Matte-Black-Valve-Included-GJ60-SS66-MB-1/341834391",
+      "brandName": "GRANDJOY",
+      "itemId": "341834391",
+      "productLabel": "10 in. 2-Spray Square High Pressure Wall Bar Shower Kit with Hand Shower 2.5 GPM in. Matte Black (Valve Included)",
       "productType": "MERCHANDISE",
-      "omsThdSku": "1016160109",
+      "omsThdSku": "1015500913",
       "specialOrderSku": null,
-      "parentId": "343332211",
-      "modelNumber": "CWY021",
+      "parentId": "327731729",
+      "modelNumber": "GJ60-SS66-MB-1",
       "__typename": "Identifiers"
     },
     "installServices": {
@@ -455,49 +481,43 @@
       "gccCarpetDesignAndOrderEligible": false,
       "__typename": "InstallServices"
     },
-    "itemId": "343332605",
+    "itemId": "341834391",
     "dataSources": "searchNav",
-    "badges": [
-      {
-        "name": "new",
-        "label": "New",
-        "__typename": "Badge"
-      }
-    ],
+    "badges": [],
     "info": {
       "isSponsored": true,
       "sponsoredMetadata": {
-        "campaignId": "9644615",
+        "campaignId": "9354284",
         "placementId": "23",
         "slotId": "e567f452-a0e6-4356-bc06-49745eb0312f",
-        "sponsoredId": "7f1ab011-17eb-474c-92aa-2800ffe865c5",
+        "sponsoredId": "de99bf7f-5071-4531-874c-bc996ee4cfe4",
         "trackSource": "VANTAGE",
         "__typename": "SponsoredMetadata"
       },
       "sponsoredBeacon": {
-        "onClickBeacon": "//rmat.homedepot.com/pla-tracker/click/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A==",
-        "onViewBeacon": "//rmat.homedepot.com/pla-tracker/impression/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A==",
+        "onClickBeacon": "//rmat.homedepot.com/pla-tracker/click/RzjnmjMlDAM69nGdWsYdBd4zpOFTg2VpgDx3i5KP1ink-SHdIHNd7HJZVxP3kUD_J9DmLf4DvUjfCjOWPxE6Hs17nc4za3ziSVHrSPlrWiALrcb-5ea9ZiaNzJVkXrKsjuhDXASQZ4KRhViFa-E2G3UrIQo8Os4XtIrfia-1AlL54M2O3NPdYQAtnJoWRid4GiR3qFkf6qD9nvW_RPrbhdkrg-lGUL1IXpF3wwzNDv7-IneM3wwByZHAP4cZoVV6n7NBTQx-mhjQt2dHiXx2JrIFYyOcycPm3BVC0wNMQch30hkd4rgdk57muKCuPnNnEnbw6-dLhzlm7S8xcNu3dpsQd3eagF2xW3P-rlBUzqES0OdTST7qB2zVu-9ENvNUjGtgtW18cksVs4TY5_Fe30MO30ND2q2iA5SEFDqdIQcWXuNtj-_GFzn-AKsuet2C9FxB5Ob_zeOJ136OrqiWwaaympvggBI54e4ctdoMTbadcTNFbZUeemJE1NtP3ImnvmGqEauL-4tJj-v5QPt43ZQNOO7ZUIL9rXrHnVd17JKNBtoBQ8Yg6uaWxM1Buewykco_a_Sb95KtbBQ4pj7CAh95CebjeLVXp8vGH9ESYUMiVyvcCKwQybc7qou30MvbQPz4QQxWExrKWCWySXtAM4zsvBIabTaTZ-rsrn9CmNuPHzBFNyeiSxDWrzSEKvSspxjzCV_K3sKvhz1Jg7uJoQvrsfEEAi06qWPB-5Pf2zJ0ZzDrYhCiK87JJ1Vm7T576HxJDHPWc3y9pu04r35_grt5gvEWuSEJ_8zYt3rjAluZuIwRTwTtUt7ak4010dC9s-lqnprPGHMCLJZWMxBy7bkXyyDdxiGz-RHuLFQxICX-hC51_91ZiQyiqWd7t1CT74DgOLn-GduFNTAa_TzjI3OIvtlN4oKe8gBp5aNoKRwbylI3CkKx5TOwBwsm8VQJKznjpgWkfHKQvxieIjZUm41zM-GJMxU-a65bwQtfoWlTb32PAZWVsC-3dnvPoMuKLvuQ60iIV8hfFdh4sva9sNO0kl12iqWqjb-6JAl7shKP9h2MOShyQlYjtKB2q-rvsCvZuDinQPgca5YTGpRSuAiaHeyKAgGImuh8PUjjJ3TXIuoPKhl6EwcCQAtvJw==",
+        "onViewBeacon": "//rmat.homedepot.com/pla-tracker/impression/RzjnmjMlDAM69nGdWsYdBd4zpOFTg2VpgDx3i5KP1ink-SHdIHNd7HJZVxP3kUD_J9DmLf4DvUjfCjOWPxE6Hs17nc4za3ziSVHrSPlrWiALrcb-5ea9ZiaNzJVkXrKsjuhDXASQZ4KRhViFa-E2G3UrIQo8Os4XtIrfia-1AlL54M2O3NPdYQAtnJoWRid4GiR3qFkf6qD9nvW_RPrbhdkrg-lGUL1IXpF3wwzNDv7-IneM3wwByZHAP4cZoVV6n7NBTQx-mhjQt2dHiXx2JrIFYyOcycPm3BVC0wNMQch30hkd4rgdk57muKCuPnNnEnbw6-dLhzlm7S8xcNu3dpsQd3eagF2xW3P-rlBUzqES0OdTST7qB2zVu-9ENvNUjGtgtW18cksVs4TY5_Fe30MO30ND2q2iA5SEFDqdIQcWXuNtj-_GFzn-AKsuet2C9FxB5Ob_zeOJ136OrqiWwaaympvggBI54e4ctdoMTbadcTNFbZUeemJE1NtP3ImnvmGqEauL-4tJj-v5QPt43ZQNOO7ZUIL9rXrHnVd17JKNBtoBQ8Yg6uaWxM1Buewykco_a_Sb95KtbBQ4pj7CAh95CebjeLVXp8vGH9ESYUMiVyvcCKwQybc7qou30MvbQPz4QQxWExrKWCWySXtAM4zsvBIabTaTZ-rsrn9CmNuPHzBFNyeiSxDWrzSEKvSspxjzCV_K3sKvhz1Jg7uJoQvrsfEEAi06qWPB-5Pf2zJ0ZzDrYhCiK87JJ1Vm7T576HxJDHPWc3y9pu04r35_grt5gvEWuSEJ_8zYt3rjAluZuIwRTwTtUt7ak4010dC9s-lqnprPGHMCLJZWMxBy7bkXyyDdxiGz-RHuLFQxICX-hC51_91ZiQyiqWd7t1CT74DgOLn-GduFNTAa_TzjI3OIvtlN4oKe8gBp5aNoKRwbylI3CkKx5TOwBwsm8VQJKznjpgWkfHKQvxieIjZUm41zM-GJMxU-a65bwQtfoWlTb32PAZWVsC-3dnvPoMuKLvuQ60iIV8hfFdh4sva9sNO0kl12iqWqjb-6JAl7shKP9h2MOShyQlYjtKB2q-rvsCvZuDinQPgca5YTGpRSuAiaHeyKAgGImuh8PUjjJ3TXIuoPKhl6EwcCQAtvJw==",
         "onClickBeacons": [
-          "//rmat.homedepot.com/pla-tracker/click/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A=="
+          "//rmat.homedepot.com/pla-tracker/click/RzjnmjMlDAM69nGdWsYdBd4zpOFTg2VpgDx3i5KP1ink-SHdIHNd7HJZVxP3kUD_J9DmLf4DvUjfCjOWPxE6Hs17nc4za3ziSVHrSPlrWiALrcb-5ea9ZiaNzJVkXrKsjuhDXASQZ4KRhViFa-E2G3UrIQo8Os4XtIrfia-1AlL54M2O3NPdYQAtnJoWRid4GiR3qFkf6qD9nvW_RPrbhdkrg-lGUL1IXpF3wwzNDv7-IneM3wwByZHAP4cZoVV6n7NBTQx-mhjQt2dHiXx2JrIFYyOcycPm3BVC0wNMQch30hkd4rgdk57muKCuPnNnEnbw6-dLhzlm7S8xcNu3dpsQd3eagF2xW3P-rlBUzqES0OdTST7qB2zVu-9ENvNUjGtgtW18cksVs4TY5_Fe30MO30ND2q2iA5SEFDqdIQcWXuNtj-_GFzn-AKsuet2C9FxB5Ob_zeOJ136OrqiWwaaympvggBI54e4ctdoMTbadcTNFbZUeemJE1NtP3ImnvmGqEauL-4tJj-v5QPt43ZQNOO7ZUIL9rXrHnVd17JKNBtoBQ8Yg6uaWxM1Buewykco_a_Sb95KtbBQ4pj7CAh95CebjeLVXp8vGH9ESYUMiVyvcCKwQybc7qou30MvbQPz4QQxWExrKWCWySXtAM4zsvBIabTaTZ-rsrn9CmNuPHzBFNyeiSxDWrzSEKvSspxjzCV_K3sKvhz1Jg7uJoQvrsfEEAi06qWPB-5Pf2zJ0ZzDrYhCiK87JJ1Vm7T576HxJDHPWc3y9pu04r35_grt5gvEWuSEJ_8zYt3rjAluZuIwRTwTtUt7ak4010dC9s-lqnprPGHMCLJZWMxBy7bkXyyDdxiGz-RHuLFQxICX-hC51_91ZiQyiqWd7t1CT74DgOLn-GduFNTAa_TzjI3OIvtlN4oKe8gBp5aNoKRwbylI3CkKx5TOwBwsm8VQJKznjpgWkfHKQvxieIjZUm41zM-GJMxU-a65bwQtfoWlTb32PAZWVsC-3dnvPoMuKLvuQ60iIV8hfFdh4sva9sNO0kl12iqWqjb-6JAl7shKP9h2MOShyQlYjtKB2q-rvsCvZuDinQPgca5YTGpRSuAiaHeyKAgGImuh8PUjjJ3TXIuoPKhl6EwcCQAtvJw=="
         ],
         "onViewBeacons": [
-          "//rmat.homedepot.com/pla-tracker/impression/1D-eahYxwvqSKjXEQElh_M3YaL9fOjozm9iTBMfZISbA5eR0H6UHYiBnuCWkBeIF9_kU6Xvn8m2D8eeUfd9LyE1acLBLbhGnfRcwvKeKqTtn5MncH7MLDTS53hlb3z26hOhGr9-d5aH5yTLrSrFH-j-h-5W7Ea0yXZxn-xsMoJZL2_iXEtZ5_K7InLsmfZ4VuJIAiNFgd0F3H94T7AiICL4EFK3mxeB3wRhLN-ohaI9J0kUQaWVf5_d4x-8HoqO_Wss_Qzvfp3qrab5EubhpO_irBTX4l225N1G4wVMucv7H75_0x9Iyc8LMGZwLv-kIrFuJ4f4JuYzkEDydjH73NM8RwhTwVYoPAmPRvK0x3RtkXaw6U95uGeNKLDLnzK5VN2PrvGIIo6rYPuLCkx9N6moCHhvZsdXj21s6KRi7tIhMmFTq65OPKtLd_gLPU-31KB2Pu9cnAOOdvfnNGcZ76gVdU8mq7rJHgdM6e79iz8A-jT4Y9aejMtWpbiW9wm9WblYVcvHD2gZ2MRDbigqWm6o6DeFImXr-vRraUKyhD8rjGXUk39YH-bBQG9SYP8zmk0AIM3sfiN1iuqA8gM8g0OE7AJkvU4XF4Q7ZotCxcQQ4SQEjU4rv3j9n7OSdKJGK95pnwBp5ELgtI3TjbYb_nRxJZ3dc0weZTgJf0_pv3J8uquU6o-pKzbSTba-WwdAKYTPrZtcnPx4HLNlpicmFnI6txYR6RogL9kEACM6CMfKHXcYxgH9x0zcfEInn53hWQ5Nx9LgXBUHotg4VB-V-T0-MpkJPTFFY69QCnkm3BtVq4Ih51jsMESsH7_6stP7xFAzSSUQPzXYTqkaqkHxdOsMb1yO4SxQ3DJwMfsN57D1FHOfb7OnfjHWI29fmmlnhmuSn6XOAMmhVssu8ljNmHhXjA81QgAjp2UoIzwwnOIdeyGclJuZTO3x5Zq3QSPvEwnc2UdzuArXAfC-vXo84fWaVy8f7nNymM1frQ78Euxbrl2hzbF8V2C89Q3PvOsso3thV3YFtnsenDEVaVPkWYBBmpL5Vl7S4eq5BJa455RMmfkFpdvBy9HRPa9fJI0RrDoWU5fN1JVh2CgS9PSu4u7dJdglUUYn4MmBbzHCbBCrASy622uab6A=="
+          "//rmat.homedepot.com/pla-tracker/impression/RzjnmjMlDAM69nGdWsYdBd4zpOFTg2VpgDx3i5KP1ink-SHdIHNd7HJZVxP3kUD_J9DmLf4DvUjfCjOWPxE6Hs17nc4za3ziSVHrSPlrWiALrcb-5ea9ZiaNzJVkXrKsjuhDXASQZ4KRhViFa-E2G3UrIQo8Os4XtIrfia-1AlL54M2O3NPdYQAtnJoWRid4GiR3qFkf6qD9nvW_RPrbhdkrg-lGUL1IXpF3wwzNDv7-IneM3wwByZHAP4cZoVV6n7NBTQx-mhjQt2dHiXx2JrIFYyOcycPm3BVC0wNMQch30hkd4rgdk57muKCuPnNnEnbw6-dLhzlm7S8xcNu3dpsQd3eagF2xW3P-rlBUzqES0OdTST7qB2zVu-9ENvNUjGtgtW18cksVs4TY5_Fe30MO30ND2q2iA5SEFDqdIQcWXuNtj-_GFzn-AKsuet2C9FxB5Ob_zeOJ136OrqiWwaaympvggBI54e4ctdoMTbadcTNFbZUeemJE1NtP3ImnvmGqEauL-4tJj-v5QPt43ZQNOO7ZUIL9rXrHnVd17JKNBtoBQ8Yg6uaWxM1Buewykco_a_Sb95KtbBQ4pj7CAh95CebjeLVXp8vGH9ESYUMiVyvcCKwQybc7qou30MvbQPz4QQxWExrKWCWySXtAM4zsvBIabTaTZ-rsrn9CmNuPHzBFNyeiSxDWrzSEKvSspxjzCV_K3sKvhz1Jg7uJoQvrsfEEAi06qWPB-5Pf2zJ0ZzDrYhCiK87JJ1Vm7T576HxJDHPWc3y9pu04r35_grt5gvEWuSEJ_8zYt3rjAluZuIwRTwTtUt7ak4010dC9s-lqnprPGHMCLJZWMxBy7bkXyyDdxiGz-RHuLFQxICX-hC51_91ZiQyiqWd7t1CT74DgOLn-GduFNTAa_TzjI3OIvtlN4oKe8gBp5aNoKRwbylI3CkKx5TOwBwsm8VQJKznjpgWkfHKQvxieIjZUm41zM-GJMxU-a65bwQtfoWlTb32PAZWVsC-3dnvPoMuKLvuQ60iIV8hfFdh4sva9sNO0kl12iqWqjb-6JAl7shKP9h2MOShyQlYjtKB2q-rvsCvZuDinQPgca5YTGpRSuAiaHeyKAgGImuh8PUjjJ3TXIuoPKhl6EwcCQAtvJw=="
         ],
         "__typename": "SponsoredBeacon"
       },
       "productSubType": null,
       "augmentedReality": false,
       "globalCustomConfigurator": null,
-      "productDepartment": "Under Cabinet Strip Lights",
-      "classNumber": "1",
+      "productDepartment": "Shower Head Slide Bars",
+      "classNumber": "4",
       "hidePrice": false,
       "ecoRebate": false,
       "quantityLimit": 0,
       "categoryHierarchy": [
-        "Lighting",
-        "Ambient Lighting",
-        "Under Cabinet Lighting",
-        "Under Cabinet Strip Lights"
+        "Bath",
+        "Bathroom Faucets",
+        "Shower Systems",
+        "Shower Head Slide Bars"
       ],
       "sskMin": null,
       "sskMax": null,
@@ -510,17 +530,78 @@
       "returnable": "90-Day",
       "hasSubscription": false,
       "isLiveGoodsProduct": false,
-      "swatches": [],
-      "totalNumberOfOptions": 5,
+      "swatches": [
+        {
+          "isSelected": true,
+          "itemId": "341834391",
+          "label": "Matte Black-6066",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/c2/c2583593-da6d-4642-a1dd-c3f481590147_35.jpg",
+          "url": "/p/GRANDJOY-10-in-2-Spray-Square-High-Pressure-Wall-Bar-Shower-Kit-with-Hand-Shower-2-5-GPM-in-Matte-Black-Valve-Included-GJ60-SS66-MB-1/341834391",
+          "value": "c2583593-da6d-4642-a1dd-c3f481590147",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "340438503",
+          "label": "Brushed Nickel-Outdoor",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/d0/d051f7a9-2db6-4e4c-a1d4-15f60d289643_35.jpg",
+          "url": "/p/GRANDJOY-8-in-Outdoor-Freestanding-1-Handle-3-Spray-Shower-Faucet-2-5-GPM-with-Anti-Scald-Stainless-Steel-in-Brushed-Nickel-SGF11GJ-88BN/340438503",
+          "value": "d051f7a9-2db6-4e4c-a1d4-15f60d289643",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "328185524",
+          "label": "Brushed Nickel-1067",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/94/944d0621-43df-472a-a501-6d55bfaa042d_35.jpg",
+          "url": "/p/GRANDJOY-ZenithRain-Shower-System-8-Spray-12-and-6in-Ceiling-Mount-Dual-Fixed-and-Handheld-Shower-Head-2-5-GPM-in-Brushed-Nickel-SGF10GJ-67-BN12/328185524",
+          "value": "944d0621-43df-472a-a501-6d55bfaa042d",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "341834447",
+          "label": "Chrome-6066",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/c8/c87d76ce-66b6-4ed9-8891-ccda4fd329eb_35.jpg",
+          "url": "/p/GRANDJOY-10-in-2-Spray-Square-High-Pressure-Wall-Bar-Shower-Kit-with-Hand-Shower-2-5-GPM-in-Polished-Chrome-Valve-Included-GJ60-SS66-CP-1/341834447",
+          "value": "c87d76ce-66b6-4ed9-8891-ccda4fd329eb",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "327801558",
+          "label": "Brushed Nickel",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/fd/fdafd4ac-f963-4b34-82e0-111e788fae9c_35.jpg",
+          "url": "/p/GRANDJOY-3-Spray-Single-Handle-Round-Rain-Dual-Fixed-Shower-Head-with-Handheld-Shower-Head-in-Brushed-Nickel-SGF10GJ-76-NK9/327801558",
+          "value": "fdafd4ac-f963-4b34-82e0-111e788fae9c",
+          "__typename": "Swatch"
+        }
+      ],
+      "totalNumberOfOptions": 20,
       "samplesAvailable": false,
       "__typename": "Info"
     },
     "media": {
       "images": [
         {
-          "url": "https://images.thdstatic.com/productImages/477370efdc6e48f8a95d149be4276cd6/svn/tjoy-led-strip-lights-cwy021-64_<SIZE>.jpg",
+          "url": "https://images.thdstatic.com/productImages/919f159b-5372-4d68-b2bb-ce4ba780d783/svn/matte-black-6066-grandjoy-shower-head-slide-bars-gj60-ss66-mb-1-64_<SIZE>.jpg",
           "type": "IMAGE",
           "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/54d85c14-c69d-4f67-8881-59d2a129fa47/svn/matte-black-6066-grandjoy-shower-head-slide-bars-gj60-ss66-mb-1-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
           "sizes": [
             "65",
             "100",
@@ -536,8 +617,8 @@
       "__typename": "Media"
     },
     "pricing": {
-      "value": 94.98,
-      "original": 99.99,
+      "value": 239,
+      "original": 271.4,
       "alternatePriceDisplay": false,
       "alternate": {
         "bulk": null,
@@ -557,8 +638,8 @@
       "promotion": {
         "type": null,
         "description": null,
-        "dollarOff": 5.01,
-        "percentageOff": 5,
+        "dollarOff": 32.4,
+        "percentageOff": 12,
         "promotionTag": null,
         "savingsCenter": "Special Buys",
         "savingsCenterPromos": "Special Buys",
@@ -587,8 +668,8 @@
     },
     "reviews": {
       "ratingsReviews": {
-        "averageRating": "0.000000",
-        "totalReviews": "0",
+        "averageRating": "4.5278",
+        "totalReviews": "36",
         "__typename": "RatingsReviews"
       },
       "__typename": "Reviews"
@@ -600,8 +681,8 @@
       "anchorStoreStatusType": "DELETED",
       "backordered": false,
       "backorderedShipDate": null,
-      "bossExcludedShipStates": "GU,PR,VI",
-      "excludedShipStates": "GU,PR,VI",
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
       "seasonStatusEligible": null,
       "fulfillmentOptions": [
         {
@@ -625,7 +706,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 135,
+                    "quantity": 1823,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -658,7 +739,7 @@
             {
               "deliveryTimeline": "later",
               "deliveryDates": {
-                "startDate": "2026-10-22",
+                "startDate": "2026-10-26",
                 "endDate": "2026-10-26",
                 "__typename": "DeliveryDate"
               },
@@ -676,7 +757,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 135,
+                    "quantity": 1823,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -721,15 +802,15 @@
     "taxonomy": {
       "breadCrumbs": [
         {
-          "label": "Lighting",
+          "label": "Bath",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "Novelty Lighting",
+          "label": "Bathroom Faucets",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "LED Strip Lights",
+          "label": "Special Values",
           "__typename": "BreadCrumb"
         }
       ],
@@ -749,441 +830,38 @@
         {
           "features": [
             {
-              "name": "Product Length (ft.)",
+              "name": "Flow rate (gallons per minute)",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "400 ft",
+              "value": "2.5",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Power Source",
+              "name": "Shower Head Shape",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Plug-In (Wall)",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Mounting Method",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Adhesive",
+              "value": "Square",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
               "name": "Features",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Dimmable",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Control Type",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Remote",
-              "__typename": "KeyProductFeaturesFeature"
-            }
-          ],
-          "__typename": "KeyProductFeaturesItem"
-        }
-      ],
-      "__typename": "KeyProductFeatures"
-    },
-    "specificationGroup": null,
-    "bundleItems": null,
-    "__typename": "BaseProduct",
-    "isClearanceItem": false,
-    "categoryTitle": "LED Strip Lights",
-    "categoryPath": "Accent Lighting > LED Strip Lights",
-    "URL": "https://homedepot.com/p/TJOY-400-ft-Plug-in-RGB-Color-Changing-Permanent-Eave-LED-Strip-Light-Dimmable-IP65-Waterproof-Christmas-Tape-Lights-CWY021/343332605?store=6643"
-  },
-  {
-    "identifiers": {
-      "storeSkuNumber": "1007938336",
-      "canonicalUrl": "/p/Govee-RGBICW-49-2-ft-Smart-Plug-in-Dimmable-Uncuttable-Color-Changing-Integrated-LED-Strip-Light-1-Pack-H612DAD1/331606229",
-      "brandName": "Govee",
-      "itemId": "331606229",
-      "productLabel": "RGBICW 49.2 ft. Smart Plug-in Dimmable Uncuttable Color-Changing Integrated LED Strip Light (1-Pack)",
-      "productType": "MERCHANDISE",
-      "omsThdSku": "1007938336",
-      "specialOrderSku": null,
-      "parentId": "332399402",
-      "modelNumber": "H612DAD1",
-      "__typename": "Identifiers"
-    },
-    "installServices": {
-      "scheduleAMeasure": false,
-      "gccCarpetDesignAndOrderEligible": false,
-      "__typename": "InstallServices"
-    },
-    "itemId": "331606229",
-    "dataSources": "searchNav",
-    "badges": [],
-    "info": {
-      "isSponsored": null,
-      "sponsoredMetadata": null,
-      "sponsoredBeacon": null,
-      "productSubType": null,
-      "augmentedReality": false,
-      "globalCustomConfigurator": null,
-      "productDepartment": "Under Cabinet Strip Lights",
-      "classNumber": "1",
-      "hidePrice": false,
-      "ecoRebate": false,
-      "quantityLimit": 0,
-      "categoryHierarchy": [
-        "Lighting",
-        "Ambient Lighting",
-        "Under Cabinet Lighting",
-        "Under Cabinet Strip Lights"
-      ],
-      "sskMin": null,
-      "sskMax": null,
-      "unitOfMeasureCoverage": null,
-      "wasMaxPriceRange": null,
-      "wasMinPriceRange": null,
-      "isGenericProduct": null,
-      "customerSignal": null,
-      "isBuryProduct": null,
-      "returnable": "90-Day",
-      "hasSubscription": false,
-      "isLiveGoodsProduct": false,
-      "swatches": [],
-      "totalNumberOfOptions": 3,
-      "samplesAvailable": false,
-      "__typename": "Info"
-    },
-    "media": {
-      "images": [
-        {
-          "url": "https://images.thdstatic.com/productImages/1a678c72-9733-43be-bd1c-050047fa3e0a/svn/govee-led-strip-lights-h612dad1-64_<SIZE>.jpg",
-          "type": "IMAGE",
-          "subType": "PRIMARY",
-          "sizes": [
-            "65",
-            "100",
-            "145",
-            "300",
-            "400",
-            "600",
-            "1000"
-          ],
-          "__typename": "Image"
-        },
-        {
-          "url": "https://images.thdstatic.com/productImages/a80f64b6-6169-4d1e-87ee-19fafefc1c64/svn/govee-led-strip-lights-h612dad1-e4_<SIZE>.jpg",
-          "type": "IMAGE",
-          "subType": "SECONDARY",
-          "sizes": [
-            "65",
-            "100",
-            "145",
-            "300",
-            "400",
-            "600",
-            "1000"
-          ],
-          "__typename": "Image"
-        }
-      ],
-      "__typename": "Media"
-    },
-    "pricing": {
-      "value": 56.9,
-      "original": 56.9,
-      "alternatePriceDisplay": false,
-      "alternate": {
-        "bulk": null,
-        "unit": {
-          "caseUnitOfMeasure": null,
-          "unitsOriginalPrice": null,
-          "unitsPerCase": 0,
-          "value": null,
-          "__typename": "UnitPricing"
-        },
-        "__typename": "Alternate"
-      },
-      "mapAboveOriginalPrice": null,
-      "mapDetail": null,
-      "message": null,
-      "preferredPriceFlag": false,
-      "promotion": {
-        "type": null,
-        "description": null,
-        "dollarOff": 0,
-        "percentageOff": 0,
-        "promotionTag": null,
-        "savingsCenter": null,
-        "savingsCenterPromos": null,
-        "specialBuySavings": null,
-        "specialBuyDollarOff": null,
-        "specialBuyPercentageOff": null,
-        "dates": null,
-        "experienceTag": null,
-        "subExperienceTag": null,
-        "__typename": "Promotion"
-      },
-      "specialBuy": null,
-      "unitOfMeasure": "each",
-      "conditionalPromotions": [
-        {
-          "promotionId": null,
-          "skuItemGroup": null,
-          "promotionTags": null,
-          "eligibilityCriteria": null,
-          "reward": null,
-          "__typename": "ConditionalPromotion"
-        }
-      ],
-      "clearance": null,
-      "__typename": "Pricing"
-    },
-    "reviews": {
-      "ratingsReviews": {
-        "averageRating": "4.2547",
-        "totalReviews": "106",
-        "__typename": "RatingsReviews"
-      },
-      "__typename": "Reviews"
-    },
-    "dataSource": "searchNav",
-    "favoriteDetail": null,
-    "fulfillment": {
-      "anchorStoreStatus": false,
-      "anchorStoreStatusType": "ACTIVE",
-      "backordered": false,
-      "backorderedShipDate": null,
-      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
-      "excludedShipStates": "AK,GU,HI,PR,VI",
-      "seasonStatusEligible": null,
-      "fulfillmentOptions": [
-        {
-          "type": "pickup",
-          "fulfillable": true,
-          "services": [
-            {
-              "deliveryTimeline": null,
-              "deliveryDates": null,
-              "deliveryCharge": null,
-              "dynamicEta": null,
-              "hasFreeShipping": false,
-              "freeDeliveryThreshold": null,
-              "locations": [
-                {
-                  "curbsidePickupFlag": null,
-                  "isBuyInStoreCheckNearBy": null,
-                  "distance": 0,
-                  "inventory": {
-                    "isOutOfStock": false,
-                    "isInStock": true,
-                    "isLimitedQuantity": false,
-                    "isUnavailable": false,
-                    "quantity": 14,
-                    "maxAllowedBopisQty": null,
-                    "minAllowedBopisQty": null,
-                    "__typename": "Inventory"
-                  },
-                  "isAnchor": true,
-                  "locationId": "6643",
-                  "state": "CA",
-                  "storeName": "Anaheim Hills",
-                  "storePhone": "(714)921-1215",
-                  "type": "store",
-                  "__typename": "Location"
-                }
-              ],
-              "type": "bopis",
-              "totalCharge": null,
-              "earliestDeliveryDate": null,
-              "deliveryMessage": null,
-              "shipFromFastestLocation": false,
-              "optimalFulfillment": false,
-              "__typename": "Service"
-            }
-          ],
-          "priorityDeliveryOptions": null,
-          "__typename": "FulfillmentOption"
-        },
-        {
-          "type": "delivery",
-          "fulfillable": true,
-          "services": [
-            {
-              "deliveryTimeline": "tomorrow",
-              "deliveryDates": {
-                "startDate": "2026-10-19",
-                "endDate": "2026-10-19",
-                "__typename": "DeliveryDate"
-              },
-              "deliveryCharge": null,
-              "dynamicEta": null,
-              "hasFreeShipping": true,
-              "freeDeliveryThreshold": null,
-              "locations": [
-                {
-                  "curbsidePickupFlag": null,
-                  "isBuyInStoreCheckNearBy": null,
-                  "distance": null,
-                  "inventory": {
-                    "isOutOfStock": false,
-                    "isInStock": true,
-                    "isLimitedQuantity": false,
-                    "isUnavailable": false,
-                    "quantity": 69,
-                    "maxAllowedBopisQty": null,
-                    "minAllowedBopisQty": null,
-                    "__typename": "Inventory"
-                  },
-                  "isAnchor": true,
-                  "locationId": "8119",
-                  "state": null,
-                  "storeName": null,
-                  "storePhone": null,
-                  "type": "online",
-                  "__typename": "Location"
-                }
-              ],
-              "type": "sth",
-              "totalCharge": 0,
-              "earliestDeliveryDate": null,
-              "deliveryMessage": null,
-              "shipFromFastestLocation": false,
-              "optimalFulfillment": false,
-              "__typename": "Service"
-            },
-            {
-              "deliveryTimeline": "today",
-              "deliveryDates": {
-                "startDate": "2026-10-18",
-                "endDate": "2026-10-18",
-                "__typename": "DeliveryDate"
-              },
-              "deliveryCharge": null,
-              "dynamicEta": null,
-              "hasFreeShipping": false,
-              "freeDeliveryThreshold": null,
-              "locations": [
-                {
-                  "curbsidePickupFlag": null,
-                  "isBuyInStoreCheckNearBy": null,
-                  "distance": 0,
-                  "inventory": {
-                    "isOutOfStock": false,
-                    "isInStock": true,
-                    "isLimitedQuantity": false,
-                    "isUnavailable": false,
-                    "quantity": 67,
-                    "maxAllowedBopisQty": null,
-                    "minAllowedBopisQty": null,
-                    "__typename": "Inventory"
-                  },
-                  "isAnchor": true,
-                  "locationId": "6643",
-                  "state": "CA",
-                  "storeName": "Anaheim Hills",
-                  "storePhone": "(714)921-1215",
-                  "type": "store",
-                  "__typename": "Location"
-                }
-              ],
-              "type": "express delivery",
-              "totalCharge": 0,
-              "earliestDeliveryDate": null,
-              "deliveryMessage": null,
-              "shipFromFastestLocation": false,
-              "optimalFulfillment": true,
-              "__typename": "Service"
-            }
-          ],
-          "priorityDeliveryOptions": [
-            {
-              "date": "2026-10-18",
-              "timeline": "2 Hours",
-              "totalCharge": 0,
-              "__typename": "PriorityDeliveryOption"
-            }
-          ],
-          "__typename": "FulfillmentOption"
-        }
-      ],
-      "onlineStoreStatus": false,
-      "onlineStoreStatusType": null,
-      "fulfillmentBundleMessage": null,
-      "sthExcludedShipState": null,
-      "__typename": "Fulfillment"
-    },
-    "details": {
-      "collection": {
-        "name": null,
-        "url": null,
-        "__typename": "Collection"
-      },
-      "installation": null,
-      "__typename": "Details"
-    },
-    "taxonomy": {
-      "breadCrumbs": [
-        {
-          "label": "Lighting",
-          "__typename": "BreadCrumb"
-        },
-        {
-          "label": "Novelty Lighting",
-          "__typename": "BreadCrumb"
-        },
-        {
-          "label": "LED Strip Lights",
-          "__typename": "BreadCrumb"
-        }
-      ],
-      "__typename": "Taxonomy"
-    },
-    "availabilityType": {
-      "type": "Shared",
-      "discontinued": false,
-      "buyable": false,
-      "status": false,
-      "__typename": "AvailabilityType"
-    },
-    "bundleFlag": null,
-    "fuelTypeOptions": null,
-    "keyProductFeatures": {
-      "keyProductFeaturesItems": [
-        {
-          "features": [
-            {
-              "name": "Product Length (ft.)",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "49.2 ft",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Power Source",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Plug-In (Wall)",
+              "value": "High Pressure",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
               "name": "Features",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Dimmable",
+              "value": "Adjustable Heads",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Mounting Method",
+              "name": "Wall bar installation",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Adhesive",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Control Type",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "App",
+              "value": "Shower arm attached",
               "__typename": "KeyProductFeaturesFeature"
             }
           ],
@@ -1196,22 +874,22 @@
     "bundleItems": null,
     "__typename": "BaseProduct",
     "isClearanceItem": false,
-    "categoryTitle": "LED Strip Lights",
-    "categoryPath": "Accent Lighting > LED Strip Lights",
-    "URL": "https://homedepot.com/p/Govee-RGBICW-49-2-ft-Smart-Plug-in-Dimmable-Uncuttable-Color-Changing-Integrated-LED-Strip-Light-1-Pack-H612DAD1/331606229?store=6643"
+    "categoryTitle": "Bathroom Faucet Savings",
+    "categoryPath": "Bathroom Faucets > Bathroom Faucet Savings",
+    "URL": "https://homedepot.com/p/GRANDJOY-10-in-2-Spray-Square-High-Pressure-Wall-Bar-Shower-Kit-with-Hand-Shower-2-5-GPM-in-Matte-Black-Valve-Included-GJ60-SS66-MB-1/341834391?store=6643"
   },
   {
     "identifiers": {
-      "storeSkuNumber": "1009579018",
-      "canonicalUrl": "/p/EcoSmart-16-4-ft-Smart-RGBWIC-Dynamic-Color-Changing-Dimmable-Plug-In-LED-Strip-Light-Powered-by-Hubspace-AL-TP-RGBICTW-1/324731686",
-      "brandName": "EcoSmart",
-      "itemId": "324731686",
-      "productLabel": "16.4 ft. Smart RGBWIC Dynamic Color Changing Dimmable Plug-In LED Strip Light Powered by Hubspace",
+      "storeSkuNumber": "1002081930",
+      "canonicalUrl": "/p/MOEN-Adler-4-Spray-Single-Handle-Shower-Faucet-1-75-GPM-in-Chrome-Valve-Included-82604/300213975",
+      "brandName": "MOEN",
+      "itemId": "300213975",
+      "productLabel": "Adler 4-Spray Single Handle Shower Faucet 1.75 GPM in Chrome (Valve Included)",
       "productType": "MERCHANDISE",
-      "omsThdSku": "1009579018",
+      "omsThdSku": "1002081930",
       "specialOrderSku": null,
-      "parentId": "327696797",
-      "modelNumber": "AL-TP-RGBICTW-1",
+      "parentId": "300213975",
+      "modelNumber": "82604",
       "__typename": "Identifiers"
     },
     "installServices": {
@@ -1219,412 +897,13 @@
       "gccCarpetDesignAndOrderEligible": false,
       "__typename": "InstallServices"
     },
-    "itemId": "324731686",
-    "dataSources": "searchNav",
-    "badges": [
-      {
-        "name": "exclusive",
-        "label": "Exclusive",
-        "__typename": "Badge"
-      }
-    ],
-    "info": {
-      "isSponsored": null,
-      "sponsoredMetadata": null,
-      "sponsoredBeacon": null,
-      "productSubType": null,
-      "augmentedReality": false,
-      "globalCustomConfigurator": null,
-      "productDepartment": "Under Cabinet Strip Lights",
-      "classNumber": "1",
-      "hidePrice": false,
-      "ecoRebate": false,
-      "quantityLimit": 5,
-      "categoryHierarchy": [
-        "Lighting",
-        "Ambient Lighting",
-        "Under Cabinet Lighting",
-        "Under Cabinet Strip Lights"
-      ],
-      "sskMin": null,
-      "sskMax": null,
-      "unitOfMeasureCoverage": null,
-      "wasMaxPriceRange": null,
-      "wasMinPriceRange": null,
-      "isGenericProduct": null,
-      "customerSignal": null,
-      "isBuryProduct": null,
-      "returnable": "90-Day",
-      "hasSubscription": false,
-      "isLiveGoodsProduct": false,
-      "swatches": [],
-      "totalNumberOfOptions": 3,
-      "samplesAvailable": false,
-      "__typename": "Info"
-    },
-    "media": {
-      "images": [
-        {
-          "url": "https://images.thdstatic.com/productImages/9bc05a26-3ad7-4e4d-a0a6-fb91ad5f5390/svn/ecosmart-led-strip-lights-al-tp-rgbictw-1-64_<SIZE>.jpg",
-          "type": "IMAGE",
-          "subType": "PRIMARY",
-          "sizes": [
-            "65",
-            "100",
-            "145",
-            "300",
-            "400",
-            "600",
-            "1000"
-          ],
-          "__typename": "Image"
-        },
-        {
-          "url": "https://images.thdstatic.com/productImages/4f7fa355-1740-4268-9b25-ac3069671d7a/svn/ecosmart-led-strip-lights-al-tp-rgbictw-1-e4_<SIZE>.jpg",
-          "type": "IMAGE",
-          "subType": "SECONDARY",
-          "sizes": [
-            "65",
-            "100",
-            "145",
-            "300",
-            "400",
-            "600",
-            "1000"
-          ],
-          "__typename": "Image"
-        }
-      ],
-      "__typename": "Media"
-    },
-    "pricing": {
-      "value": 24.98,
-      "original": 29.98,
-      "alternatePriceDisplay": false,
-      "alternate": {
-        "bulk": null,
-        "unit": {
-          "caseUnitOfMeasure": null,
-          "unitsOriginalPrice": null,
-          "unitsPerCase": 0,
-          "value": null,
-          "__typename": "UnitPricing"
-        },
-        "__typename": "Alternate"
-      },
-      "mapAboveOriginalPrice": null,
-      "mapDetail": null,
-      "message": null,
-      "preferredPriceFlag": false,
-      "promotion": {
-        "type": null,
-        "description": null,
-        "dollarOff": 5,
-        "percentageOff": 17,
-        "promotionTag": null,
-        "savingsCenter": null,
-        "savingsCenterPromos": null,
-        "specialBuySavings": null,
-        "specialBuyDollarOff": null,
-        "specialBuyPercentageOff": null,
-        "dates": null,
-        "experienceTag": null,
-        "subExperienceTag": null,
-        "__typename": "Promotion"
-      },
-      "specialBuy": null,
-      "unitOfMeasure": "each",
-      "conditionalPromotions": [
-        {
-          "promotionId": 461414,
-          "skuItemGroup": "SRC-1",
-          "promotionTags": [
-            "MSB"
-          ],
-          "eligibilityCriteria": [
-            {
-              "itemGroup": "SRC-1",
-              "minThresholdVal": 4,
-              "thresholdType": "QUANTITY",
-              "__typename": "EligibilityCriterion"
-            }
-          ],
-          "reward": {
-            "tiers": [
-              {
-                "minThresholdVal": 4,
-                "thresholdType": "QUANTITY",
-                "rewardVal": 20,
-                "rewardType": "PERCNTOFF",
-                "rewardLevel": null,
-                "maxAllowedRewardAmount": null,
-                "__typename": "ConditionalPromoTier"
-              }
-            ],
-            "__typename": "ConditionalPromoReward"
-          },
-          "__typename": "ConditionalPromotion"
-        }
-      ],
-      "clearance": null,
-      "__typename": "Pricing"
-    },
-    "reviews": {
-      "ratingsReviews": {
-        "averageRating": "3.8932",
-        "totalReviews": "206",
-        "__typename": "RatingsReviews"
-      },
-      "__typename": "Reviews"
-    },
-    "dataSource": "searchNav",
-    "favoriteDetail": null,
-    "fulfillment": {
-      "anchorStoreStatus": false,
-      "anchorStoreStatusType": "ACTIVE",
-      "backordered": false,
-      "backorderedShipDate": null,
-      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
-      "excludedShipStates": "AK,GU,HI,PR,VI",
-      "seasonStatusEligible": null,
-      "fulfillmentOptions": [
-        {
-          "type": "pickup",
-          "fulfillable": true,
-          "services": [
-            {
-              "deliveryTimeline": null,
-              "deliveryDates": null,
-              "deliveryCharge": null,
-              "dynamicEta": null,
-              "hasFreeShipping": false,
-              "freeDeliveryThreshold": null,
-              "locations": [
-                {
-                  "curbsidePickupFlag": null,
-                  "isBuyInStoreCheckNearBy": null,
-                  "distance": 0,
-                  "inventory": {
-                    "isOutOfStock": false,
-                    "isInStock": true,
-                    "isLimitedQuantity": false,
-                    "isUnavailable": false,
-                    "quantity": 31,
-                    "maxAllowedBopisQty": null,
-                    "minAllowedBopisQty": null,
-                    "__typename": "Inventory"
-                  },
-                  "isAnchor": true,
-                  "locationId": "6643",
-                  "state": "CA",
-                  "storeName": "Anaheim Hills",
-                  "storePhone": "(714)921-1215",
-                  "type": "store",
-                  "__typename": "Location"
-                }
-              ],
-              "type": "bopis",
-              "totalCharge": null,
-              "earliestDeliveryDate": null,
-              "deliveryMessage": null,
-              "shipFromFastestLocation": false,
-              "optimalFulfillment": false,
-              "__typename": "Service"
-            }
-          ],
-          "priorityDeliveryOptions": null,
-          "__typename": "FulfillmentOption"
-        },
-        {
-          "type": "delivery",
-          "fulfillable": true,
-          "services": [
-            {
-              "deliveryTimeline": "tomorrow",
-              "deliveryDates": {
-                "startDate": "2026-10-19",
-                "endDate": "2026-10-19",
-                "__typename": "DeliveryDate"
-              },
-              "deliveryCharge": null,
-              "dynamicEta": null,
-              "hasFreeShipping": false,
-              "freeDeliveryThreshold": null,
-              "locations": [
-                {
-                  "curbsidePickupFlag": null,
-                  "isBuyInStoreCheckNearBy": null,
-                  "distance": 0,
-                  "inventory": {
-                    "isOutOfStock": false,
-                    "isInStock": true,
-                    "isLimitedQuantity": false,
-                    "isUnavailable": false,
-                    "quantity": 31,
-                    "maxAllowedBopisQty": null,
-                    "minAllowedBopisQty": null,
-                    "__typename": "Inventory"
-                  },
-                  "isAnchor": true,
-                  "locationId": "6643",
-                  "state": "CA",
-                  "storeName": "Anaheim Hills",
-                  "storePhone": "(714)921-1215",
-                  "type": "store",
-                  "__typename": "Location"
-                }
-              ],
-              "type": "express delivery",
-              "totalCharge": 0,
-              "earliestDeliveryDate": null,
-              "deliveryMessage": null,
-              "shipFromFastestLocation": true,
-              "optimalFulfillment": true,
-              "__typename": "Service"
-            }
-          ],
-          "priorityDeliveryOptions": [
-            {
-              "date": "2026-10-18",
-              "timeline": "2 Hours",
-              "totalCharge": 2.99,
-              "__typename": "PriorityDeliveryOption"
-            },
-            {
-              "date": "2026-10-18",
-              "timeline": "today",
-              "totalCharge": 2.99,
-              "__typename": "PriorityDeliveryOption"
-            }
-          ],
-          "__typename": "FulfillmentOption"
-        }
-      ],
-      "onlineStoreStatus": false,
-      "onlineStoreStatusType": null,
-      "fulfillmentBundleMessage": null,
-      "sthExcludedShipState": null,
-      "__typename": "Fulfillment"
-    },
-    "details": {
-      "collection": {
-        "name": "Dynamic Color Strip Lights",
-        "url": "/collection/Lighting/Dynamic-Color-Strip-Lights/Family-327971628?omsid=324731686",
-        "__typename": "Collection"
-      },
-      "installation": null,
-      "__typename": "Details"
-    },
-    "taxonomy": {
-      "breadCrumbs": [
-        {
-          "label": "Lighting",
-          "__typename": "BreadCrumb"
-        },
-        {
-          "label": "Novelty Lighting",
-          "__typename": "BreadCrumb"
-        },
-        {
-          "label": "LED Strip Lights",
-          "__typename": "BreadCrumb"
-        }
-      ],
-      "__typename": "Taxonomy"
-    },
-    "availabilityType": {
-      "type": "Shared",
-      "discontinued": false,
-      "buyable": false,
-      "status": false,
-      "__typename": "AvailabilityType"
-    },
-    "bundleFlag": null,
-    "fuelTypeOptions": null,
-    "keyProductFeatures": {
-      "keyProductFeaturesItems": [
-        {
-          "features": [
-            {
-              "name": "Product Length (ft.)",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "16.4 ft",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Power Source",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Plug-In (Wall)",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Mounting Method",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Adhesive",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Light Bulb Type Included",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Integrated LED",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Control Type",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "App",
-              "__typename": "KeyProductFeaturesFeature"
-            }
-          ],
-          "__typename": "KeyProductFeaturesItem"
-        }
-      ],
-      "__typename": "KeyProductFeatures"
-    },
-    "specificationGroup": null,
-    "bundleItems": null,
-    "__typename": "BaseProduct",
-    "isClearanceItem": false,
-    "categoryTitle": "LED Strip Lights",
-    "categoryPath": "Accent Lighting > LED Strip Lights",
-    "URL": "https://homedepot.com/p/EcoSmart-16-4-ft-Smart-RGBWIC-Dynamic-Color-Changing-Dimmable-Plug-In-LED-Strip-Light-Powered-by-Hubspace-AL-TP-RGBICTW-1/324731686?store=6643"
-  },
-  {
-    "identifiers": {
-      "storeSkuNumber": "1008637665",
-      "canonicalUrl": "/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Dimmable-Integrated-LED-3000K-Indoor-Seamless-Tape-Strip-Light-w-Remote-TAPE192-WCOB-HD/331330586",
-      "brandName": "Commercial Electric",
-      "itemId": "331330586",
-      "productLabel": "16 ft. Plug-In/Hardwire Cuttable/Linkable Dimmable Integrated LED 3000K Indoor Seamless Tape Strip Light w/Remote",
-      "productType": "MERCHANDISE",
-      "omsThdSku": "1008637665",
-      "specialOrderSku": null,
-      "parentId": "331330586",
-      "modelNumber": "TAPE192/WCOB/HD",
-      "__typename": "Identifiers"
-    },
-    "installServices": {
-      "scheduleAMeasure": false,
-      "gccCarpetDesignAndOrderEligible": false,
-      "__typename": "InstallServices"
-    },
-    "itemId": "331330586",
+    "itemId": "300213975",
     "dataSources": "searchNav",
     "badges": [
       {
         "name": "bestseller",
         "label": "Best Seller",
         "__typename": "Badge"
-      },
-      {
-        "name": "exclusive",
-        "label": "Exclusive",
-        "__typename": "Badge"
       }
     ],
     "info": {
@@ -1634,16 +913,15 @@
       "productSubType": null,
       "augmentedReality": false,
       "globalCustomConfigurator": null,
-      "productDepartment": "Under Cabinet Strip Lights",
-      "classNumber": "1",
+      "productDepartment": "Shower Faucets",
+      "classNumber": "3",
       "hidePrice": false,
       "ecoRebate": false,
       "quantityLimit": 0,
       "categoryHierarchy": [
-        "Lighting",
-        "Ambient Lighting",
-        "Under Cabinet Lighting",
-        "Under Cabinet Strip Lights"
+        "Bath",
+        "Bathroom Faucets",
+        "Shower Faucets"
       ],
       "sskMin": null,
       "sskMax": null,
@@ -1664,7 +942,7 @@
     "media": {
       "images": [
         {
-          "url": "https://images.thdstatic.com/productImages/97fc0911-1b34-404c-8df9-f1dcae1a3934/svn/commercial-electric-led-strip-lights-tape192-wcob-hd-64_<SIZE>.jpg",
+          "url": "https://images.thdstatic.com/productImages/6937fcd8-b0e7-4bb2-9e9e-4f9f0669a3e1/svn/chrome-moen-shower-faucets-82604-64_<SIZE>.jpg",
           "type": "IMAGE",
           "subType": "PRIMARY",
           "sizes": [
@@ -1679,7 +957,7 @@
           "__typename": "Image"
         },
         {
-          "url": "https://images.thdstatic.com/productImages/2cbd7a3e-b7a9-4da9-a796-0ae84e067381/svn/commercial-electric-led-strip-lights-tape192-wcob-hd-e4_<SIZE>.jpg",
+          "url": "https://images.thdstatic.com/productImages/2066c163-a951-4efb-a940-dadd277829bc/svn/chrome-moen-shower-faucets-82604-e4_<SIZE>.jpg",
           "type": "IMAGE",
           "subType": "SECONDARY",
           "sizes": [
@@ -1697,8 +975,8 @@
       "__typename": "Media"
     },
     "pricing": {
-      "value": 69.98,
-      "original": 69.98,
+      "value": 79,
+      "original": 89,
       "alternatePriceDisplay": false,
       "alternate": {
         "bulk": null,
@@ -1718,11 +996,11 @@
       "promotion": {
         "type": null,
         "description": null,
-        "dollarOff": 0,
-        "percentageOff": 0,
+        "dollarOff": 10,
+        "percentageOff": 11,
         "promotionTag": null,
-        "savingsCenter": null,
-        "savingsCenterPromos": null,
+        "savingsCenter": "Special Buys",
+        "savingsCenterPromos": "Special Buys",
         "specialBuySavings": null,
         "specialBuyDollarOff": null,
         "specialBuyPercentageOff": null,
@@ -1748,20 +1026,23 @@
     },
     "reviews": {
       "ratingsReviews": {
-        "averageRating": "3.4561",
-        "totalReviews": "57",
+        "averageRating": "4.2522",
+        "totalReviews": "1019",
         "__typename": "RatingsReviews"
       },
       "__typename": "Reviews"
     },
     "dataSource": "searchNav",
-    "favoriteDetail": null,
+    "favoriteDetail": {
+      "count": 4863,
+      "__typename": "FavoriteDetail"
+    },
     "fulfillment": {
       "anchorStoreStatus": false,
       "anchorStoreStatusType": "ACTIVE",
       "backordered": false,
       "backorderedShipDate": null,
-      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "bossExcludedShipStates": "PR,VI,GU",
       "excludedShipStates": "AK,GU,HI,PR,VI",
       "seasonStatusEligible": null,
       "fulfillmentOptions": [
@@ -1783,10 +1064,10 @@
                   "distance": 0,
                   "inventory": {
                     "isOutOfStock": false,
-                    "isInStock": false,
-                    "isLimitedQuantity": true,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 0,
+                    "quantity": 24,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -1837,7 +1118,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 86,
+                    "quantity": 116,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -1880,7 +1161,7 @@
                     "isInStock": true,
                     "isLimitedQuantity": false,
                     "isUnavailable": false,
-                    "quantity": 10,
+                    "quantity": 41,
                     "maxAllowedBopisQty": null,
                     "minAllowedBopisQty": null,
                     "__typename": "Inventory"
@@ -1922,8 +1203,8 @@
     },
     "details": {
       "collection": {
-        "name": null,
-        "url": null,
+        "name": "Adler Bathroom Collection in Chrome",
+        "url": "/collection/Bath/Adler-Bathroom-Collection-in-Chrome/Family-311464230?omsid=300213975",
         "__typename": "Collection"
       },
       "installation": null,
@@ -1932,15 +1213,15 @@
     "taxonomy": {
       "breadCrumbs": [
         {
-          "label": "Lighting",
+          "label": "Bath",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "Novelty Lighting",
+          "label": "Bathroom Faucets",
           "__typename": "BreadCrumb"
         },
         {
-          "label": "LED Strip Lights",
+          "label": "Special Values",
           "__typename": "BreadCrumb"
         }
       ],
@@ -1960,38 +1241,38 @@
         {
           "features": [
             {
-              "name": "Product Length (ft.)",
+              "name": "Flow rate (gallons per minute)",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "16 ft",
+              "value": "1.75",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Power Source",
+              "name": "Handle Type",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Plug-In (Wall)",
+              "value": "Lever Handle",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
-              "name": "Features",
+              "name": "Shower Head Shape",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Dimmable",
-              "__typename": "KeyProductFeaturesFeature"
-            },
-            {
-              "name": "Mounting Method",
-              "refinementId": null,
-              "refinementUrl": null,
-              "value": "Adhesive",
+              "value": "Round",
               "__typename": "KeyProductFeaturesFeature"
             },
             {
               "name": "Features",
               "refinementId": null,
               "refinementUrl": null,
-              "value": "Cuttable",
+              "value": "Pressure Balance",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Valve Included",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Valve Included",
               "__typename": "KeyProductFeaturesFeature"
             }
           ],
@@ -2004,8 +1285,843 @@
     "bundleItems": null,
     "__typename": "BaseProduct",
     "isClearanceItem": false,
-    "categoryTitle": "LED Strip Lights",
-    "categoryPath": "Accent Lighting > LED Strip Lights",
-    "URL": "https://homedepot.com/p/Commercial-Electric-16-ft-Plug-In-Hardwire-Cuttable-Linkable-Dimmable-Integrated-LED-3000K-Indoor-Seamless-Tape-Strip-Light-w-Remote-TAPE192-WCOB-HD/331330586?store=6643"
+    "categoryTitle": "Bathroom Faucet Savings",
+    "categoryPath": "Bathroom Faucets > Bathroom Faucet Savings",
+    "URL": "https://homedepot.com/p/MOEN-Adler-4-Spray-Single-Handle-Shower-Faucet-1-75-GPM-in-Chrome-Valve-Included-82604/300213975?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1004067795",
+      "canonicalUrl": "/p/MOEN-Genta-Single-Handle-Single-Hole-Bathroom-Faucet-with-Drain-Kit-Included-in-Matte-Black-84760BL/304930079",
+      "brandName": "MOEN",
+      "itemId": "304930079",
+      "productLabel": "Genta Single Handle Single Hole Bathroom Faucet with Drain Kit Included in Matte Black",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1004067795",
+      "specialOrderSku": null,
+      "parentId": "311549474",
+      "modelNumber": "84760BL",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "304930079",
+    "dataSources": "searchNav",
+    "badges": [
+      {
+        "name": "bestseller",
+        "label": "Best Seller",
+        "__typename": "Badge"
+      },
+      {
+        "name": "top rated",
+        "label": "Top Rated",
+        "__typename": "Badge"
+      },
+      {
+        "name": "exclusive",
+        "label": "Exclusive",
+        "__typename": "Badge"
+      }
+    ],
+    "info": {
+      "isSponsored": null,
+      "sponsoredMetadata": null,
+      "sponsoredBeacon": null,
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Single Hole Bathroom Faucets",
+      "classNumber": "3",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Bath",
+        "Bathroom Faucets",
+        "Bathroom Sink Faucets",
+        "Single Hole Bathroom Faucets"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [
+        {
+          "isSelected": true,
+          "itemId": "304930079",
+          "label": "Matte Black",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/fd/fded7bf6-8eb5-4d96-bf05-a5f3523f4698_35.jpg",
+          "url": "/p/MOEN-Genta-Single-Handle-Single-Hole-Bathroom-Faucet-with-Drain-Kit-Included-in-Matte-Black-84760BL/304930079",
+          "value": "fded7bf6-8eb5-4d96-bf05-a5f3523f4698",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "319345861",
+          "label": "Bronzed Gold",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/54/5478f651-9cf2-4579-ab43-988a96bad082_35.jpg",
+          "url": "/p/MOEN-Genta-Single-Hole-Single-Handle-Bathroom-Faucet-with-Drain-Kit-Included-in-Bronze-Gold-2-pack-TWS84760BZG-2PK/319345861",
+          "value": "5478f651-9cf2-4579-ab43-988a96bad082",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "304534600",
+          "label": "Brushed Nickel",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/96/9669d898-87a3-44bb-8aaf-df9f58b218a6_35.jpg",
+          "url": "/p/MOEN-Genta-Single-Handle-Single-Hole-Bathroom-Faucet-with-Drain-Kit-Included-in-Spot-Resist-Brushed-Nickel-2-Pack-84760SRN-SM-2PK/304534600",
+          "value": "9669d898-87a3-44bb-8aaf-df9f58b218a6",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "304543014",
+          "label": "Chrome",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/e6/e6ba1efa-c058-49b9-a4da-4ff514a53495_35.jpg",
+          "url": "/p/MOEN-Genta-Single-Handle-Single-Hole-Bathroom-Faucet-with-Drain-Kit-Included-in-Polished-Chrome-2-Pack-WS84760-SM-2PK/304543014",
+          "value": "e6ba1efa-c058-49b9-a4da-4ff514a53495",
+          "__typename": "Swatch"
+        }
+      ],
+      "totalNumberOfOptions": 8,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/62084b84-c376-4bde-89c4-d9485750bd07/svn/matte-black-moen-single-hole-bathroom-faucets-84760bl-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/be89ae46-3ffe-44ba-b904-92ee42bb41f0/svn/matte-black-moen-single-hole-bathroom-faucets-84760bl-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 119,
+      "original": 159,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": {
+          "pricePerUnit": null,
+          "thresholdQuantity": 3,
+          "value": 107.1,
+          "__typename": "BulkPricing"
+        },
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 40,
+        "percentageOff": 25,
+        "promotionTag": null,
+        "savingsCenter": "Special Buys",
+        "savingsCenterPromos": "Special Buys",
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": 471335,
+          "skuItemGroup": "SRC-1",
+          "promotionTags": [
+            "BULK",
+            "SSB"
+          ],
+          "eligibilityCriteria": [
+            {
+              "itemGroup": "SRC-1",
+              "minThresholdVal": 3,
+              "thresholdType": "QUANTITY",
+              "__typename": "EligibilityCriterion"
+            }
+          ],
+          "reward": {
+            "tiers": [
+              {
+                "minThresholdVal": 3,
+                "thresholdType": "QUANTITY",
+                "rewardVal": 10,
+                "rewardType": "PERCNTOFF",
+                "rewardLevel": null,
+                "maxAllowedRewardAmount": null,
+                "__typename": "ConditionalPromoTier"
+              }
+            ],
+            "__typename": "ConditionalPromoReward"
+          },
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "4.5241",
+        "totalReviews": "2450",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": {
+      "count": 2982,
+      "__typename": "FavoriteDetail"
+    },
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "ACTIVE",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "PR,VI,GU",
+      "excludedShipStates": "AK,GU,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 17,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "store",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "bopis",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "tomorrow",
+              "deliveryDates": {
+                "startDate": "2026-10-19",
+                "endDate": "2026-10-19",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 447,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": "Genta Collection",
+        "url": "/collection/Bath/Genta-Collection/Family-311464272?omsid=304930079",
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Bath",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Bathroom Faucets",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Special Values",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Shared",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Finish Family",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Matte",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Number of Faucet Handles",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "1 Handle",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Handle Type",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Lever Handle",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Valve Included",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Valve Included",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Faucet Hole Fit",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "3 Hole",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "Bathroom Faucet Savings",
+    "categoryPath": "Bathroom Faucets > Bathroom Faucet Savings",
+    "URL": "https://homedepot.com/p/MOEN-Genta-Single-Handle-Single-Hole-Bathroom-Faucet-with-Drain-Kit-Included-in-Matte-Black-84760BL/304930079?store=6643"
+  },
+  {
+    "identifiers": {
+      "storeSkuNumber": "1010691369",
+      "canonicalUrl": "/p/EVERSTEIN-3-Spray-Patterns-Round-Fixed-Shower-Head-10-and-6-in-2-5-GPM-Dual-Shower-Heads-in-Brushed-Nickel-Valve-Included-SFS-1058-NK10/328066227",
+      "brandName": "EVERSTEIN",
+      "itemId": "328066227",
+      "productLabel": "3-Spray Patterns Round Fixed Shower Head 10 and 6 in. 2.5 GPM Dual Shower Heads in Brushed Nickel (Valve Included)",
+      "productType": "MERCHANDISE",
+      "omsThdSku": "1010691369",
+      "specialOrderSku": null,
+      "parentId": "327898861",
+      "modelNumber": "SFS-1058-NK10",
+      "__typename": "Identifiers"
+    },
+    "installServices": {
+      "scheduleAMeasure": false,
+      "gccCarpetDesignAndOrderEligible": false,
+      "__typename": "InstallServices"
+    },
+    "itemId": "328066227",
+    "dataSources": "searchNav",
+    "badges": [],
+    "info": {
+      "isSponsored": true,
+      "sponsoredMetadata": {
+        "campaignId": "4620315",
+        "placementId": "23",
+        "slotId": "e567f452-a0e6-4356-bc06-49745eb0312f",
+        "sponsoredId": "e6978bbe-a55e-4c17-9d15-034ca92dd843",
+        "trackSource": "VANTAGE",
+        "__typename": "SponsoredMetadata"
+      },
+      "sponsoredBeacon": {
+        "onClickBeacon": "//rmat.homedepot.com/pla-tracker/click/DzkH_0qfjQV2QMzHNXi7FO8B47rnV8lWsNsD9quDmqy24EeFpm6NQLXTKS4NPY30JmFOOGgUdl-KgbHsN3VW38RuIUGzqwVv78yLWV7XWiq1-4Z3QHd5qKbOvEjaauIFC5F2u9xC0pkYCycA07OZKJm-RTNQrJsYA6LDBUvgNpbzbBiqkfyXSuyEZ0mfq-_QXE5Ei_hNn6HN-pOue-dEy1HXwkIpvQfzzfYyqoZ17RK7ZktOwUF7ff0cuh3TCZw_0wQAFX3zm0224dyjhJDVD4MWNGyRyctmbwemWBI5dy4VM7d9cuX_GQqMqWvWqkFSiq2PJHRvAHG_2WRYzH6IZd2RokjAL-t9jsdNL-at5R7HkME4Hq67F5HKnQ_bq7AZpYPwSUYK4NlDWpqb50t0dCquhSNYCw7iVWGnIdQqiq7b_Ymz-9EuHy_a5eHRkvsWANfNa5Lf4iE6biy6YhLjRLroXc1yHGdl1RLcEenYY00mk9rEa24tpJzsQ9QWaF_98QpqeEgTSgATDpzpokc1y-MBDtGJsm54DYzMxa0Ezf9fOBBqqlKTeyR3E3klv-dP4eC04iolDsDnyGLGZkJ8Mvy-pHPA99UjbnXCQl8R2Z-N-AVgVmO7WJeTGj7kXTfSC8LPHmT5UBhxxVG11CGlm2bjNpR40lYFFnhX_WjNi8hzIWQb2mhLTvSOTaqADU7t8Vg4ZcAWsKaC5DDwhfTzRXaAby6yPzXM_0a7m3aoQHbaKMmxSokvr3qvZByLN90F2C4G200DxHKm9KetI64FSHGV_ugv92kmYu8yXAma0bLNrbfSi7-srWMNe_RklyR2rwufbhpwn_7UlVaod5zu36hHSwbWpfyqg_6MsW0RCHjaxGDClo0Wq3Qmy0Pf0gG5CgRdv852l8Cdoj_PHM2R0MZ_NKvASofwdBVegOZAmtokfQg9bB0SzIy8dnNq6sipskODBx7jntWixFVKVn9wbyDAkRCMRz9Gdiv5Jb57zGu9hhr95XWsntHWiug4Oj6k5K5FnLMHCTfggOHZVT7CNGQwElP96960A1GRvORjMx9LGcO7mChymbmzX8YzrnanMKxDor_wZ0kB29TGbmjHeUkaoNZInH3xPd64w_V94iG1gRU6tyEXGYqAhC0FERXDFg==",
+        "onViewBeacon": "//rmat.homedepot.com/pla-tracker/impression/DzkH_0qfjQV2QMzHNXi7FO8B47rnV8lWsNsD9quDmqy24EeFpm6NQLXTKS4NPY30JmFOOGgUdl-KgbHsN3VW38RuIUGzqwVv78yLWV7XWiq1-4Z3QHd5qKbOvEjaauIFC5F2u9xC0pkYCycA07OZKJm-RTNQrJsYA6LDBUvgNpbzbBiqkfyXSuyEZ0mfq-_QXE5Ei_hNn6HN-pOue-dEy1HXwkIpvQfzzfYyqoZ17RK7ZktOwUF7ff0cuh3TCZw_0wQAFX3zm0224dyjhJDVD4MWNGyRyctmbwemWBI5dy4VM7d9cuX_GQqMqWvWqkFSiq2PJHRvAHG_2WRYzH6IZd2RokjAL-t9jsdNL-at5R7HkME4Hq67F5HKnQ_bq7AZpYPwSUYK4NlDWpqb50t0dCquhSNYCw7iVWGnIdQqiq7b_Ymz-9EuHy_a5eHRkvsWANfNa5Lf4iE6biy6YhLjRLroXc1yHGdl1RLcEenYY00mk9rEa24tpJzsQ9QWaF_98QpqeEgTSgATDpzpokc1y-MBDtGJsm54DYzMxa0Ezf9fOBBqqlKTeyR3E3klv-dP4eC04iolDsDnyGLGZkJ8Mvy-pHPA99UjbnXCQl8R2Z-N-AVgVmO7WJeTGj7kXTfSC8LPHmT5UBhxxVG11CGlm2bjNpR40lYFFnhX_WjNi8hzIWQb2mhLTvSOTaqADU7t8Vg4ZcAWsKaC5DDwhfTzRXaAby6yPzXM_0a7m3aoQHbaKMmxSokvr3qvZByLN90F2C4G200DxHKm9KetI64FSHGV_ugv92kmYu8yXAma0bLNrbfSi7-srWMNe_RklyR2rwufbhpwn_7UlVaod5zu36hHSwbWpfyqg_6MsW0RCHjaxGDClo0Wq3Qmy0Pf0gG5CgRdv852l8Cdoj_PHM2R0MZ_NKvASofwdBVegOZAmtokfQg9bB0SzIy8dnNq6sipskODBx7jntWixFVKVn9wbyDAkRCMRz9Gdiv5Jb57zGu9hhr95XWsntHWiug4Oj6k5K5FnLMHCTfggOHZVT7CNGQwElP96960A1GRvORjMx9LGcO7mChymbmzX8YzrnanMKxDor_wZ0kB29TGbmjHeUkaoNZInH3xPd64w_V94iG1gRU6tyEXGYqAhC0FERXDFg==",
+        "onClickBeacons": [
+          "//rmat.homedepot.com/pla-tracker/click/DzkH_0qfjQV2QMzHNXi7FO8B47rnV8lWsNsD9quDmqy24EeFpm6NQLXTKS4NPY30JmFOOGgUdl-KgbHsN3VW38RuIUGzqwVv78yLWV7XWiq1-4Z3QHd5qKbOvEjaauIFC5F2u9xC0pkYCycA07OZKJm-RTNQrJsYA6LDBUvgNpbzbBiqkfyXSuyEZ0mfq-_QXE5Ei_hNn6HN-pOue-dEy1HXwkIpvQfzzfYyqoZ17RK7ZktOwUF7ff0cuh3TCZw_0wQAFX3zm0224dyjhJDVD4MWNGyRyctmbwemWBI5dy4VM7d9cuX_GQqMqWvWqkFSiq2PJHRvAHG_2WRYzH6IZd2RokjAL-t9jsdNL-at5R7HkME4Hq67F5HKnQ_bq7AZpYPwSUYK4NlDWpqb50t0dCquhSNYCw7iVWGnIdQqiq7b_Ymz-9EuHy_a5eHRkvsWANfNa5Lf4iE6biy6YhLjRLroXc1yHGdl1RLcEenYY00mk9rEa24tpJzsQ9QWaF_98QpqeEgTSgATDpzpokc1y-MBDtGJsm54DYzMxa0Ezf9fOBBqqlKTeyR3E3klv-dP4eC04iolDsDnyGLGZkJ8Mvy-pHPA99UjbnXCQl8R2Z-N-AVgVmO7WJeTGj7kXTfSC8LPHmT5UBhxxVG11CGlm2bjNpR40lYFFnhX_WjNi8hzIWQb2mhLTvSOTaqADU7t8Vg4ZcAWsKaC5DDwhfTzRXaAby6yPzXM_0a7m3aoQHbaKMmxSokvr3qvZByLN90F2C4G200DxHKm9KetI64FSHGV_ugv92kmYu8yXAma0bLNrbfSi7-srWMNe_RklyR2rwufbhpwn_7UlVaod5zu36hHSwbWpfyqg_6MsW0RCHjaxGDClo0Wq3Qmy0Pf0gG5CgRdv852l8Cdoj_PHM2R0MZ_NKvASofwdBVegOZAmtokfQg9bB0SzIy8dnNq6sipskODBx7jntWixFVKVn9wbyDAkRCMRz9Gdiv5Jb57zGu9hhr95XWsntHWiug4Oj6k5K5FnLMHCTfggOHZVT7CNGQwElP96960A1GRvORjMx9LGcO7mChymbmzX8YzrnanMKxDor_wZ0kB29TGbmjHeUkaoNZInH3xPd64w_V94iG1gRU6tyEXGYqAhC0FERXDFg=="
+        ],
+        "onViewBeacons": [
+          "//rmat.homedepot.com/pla-tracker/impression/DzkH_0qfjQV2QMzHNXi7FO8B47rnV8lWsNsD9quDmqy24EeFpm6NQLXTKS4NPY30JmFOOGgUdl-KgbHsN3VW38RuIUGzqwVv78yLWV7XWiq1-4Z3QHd5qKbOvEjaauIFC5F2u9xC0pkYCycA07OZKJm-RTNQrJsYA6LDBUvgNpbzbBiqkfyXSuyEZ0mfq-_QXE5Ei_hNn6HN-pOue-dEy1HXwkIpvQfzzfYyqoZ17RK7ZktOwUF7ff0cuh3TCZw_0wQAFX3zm0224dyjhJDVD4MWNGyRyctmbwemWBI5dy4VM7d9cuX_GQqMqWvWqkFSiq2PJHRvAHG_2WRYzH6IZd2RokjAL-t9jsdNL-at5R7HkME4Hq67F5HKnQ_bq7AZpYPwSUYK4NlDWpqb50t0dCquhSNYCw7iVWGnIdQqiq7b_Ymz-9EuHy_a5eHRkvsWANfNa5Lf4iE6biy6YhLjRLroXc1yHGdl1RLcEenYY00mk9rEa24tpJzsQ9QWaF_98QpqeEgTSgATDpzpokc1y-MBDtGJsm54DYzMxa0Ezf9fOBBqqlKTeyR3E3klv-dP4eC04iolDsDnyGLGZkJ8Mvy-pHPA99UjbnXCQl8R2Z-N-AVgVmO7WJeTGj7kXTfSC8LPHmT5UBhxxVG11CGlm2bjNpR40lYFFnhX_WjNi8hzIWQb2mhLTvSOTaqADU7t8Vg4ZcAWsKaC5DDwhfTzRXaAby6yPzXM_0a7m3aoQHbaKMmxSokvr3qvZByLN90F2C4G200DxHKm9KetI64FSHGV_ugv92kmYu8yXAma0bLNrbfSi7-srWMNe_RklyR2rwufbhpwn_7UlVaod5zu36hHSwbWpfyqg_6MsW0RCHjaxGDClo0Wq3Qmy0Pf0gG5CgRdv852l8Cdoj_PHM2R0MZ_NKvASofwdBVegOZAmtokfQg9bB0SzIy8dnNq6sipskODBx7jntWixFVKVn9wbyDAkRCMRz9Gdiv5Jb57zGu9hhr95XWsntHWiug4Oj6k5K5FnLMHCTfggOHZVT7CNGQwElP96960A1GRvORjMx9LGcO7mChymbmzX8YzrnanMKxDor_wZ0kB29TGbmjHeUkaoNZInH3xPd64w_V94iG1gRU6tyEXGYqAhC0FERXDFg=="
+        ],
+        "__typename": "SponsoredBeacon"
+      },
+      "productSubType": null,
+      "augmentedReality": false,
+      "globalCustomConfigurator": null,
+      "productDepartment": "Shower Head Slide Bars",
+      "classNumber": "3",
+      "hidePrice": false,
+      "ecoRebate": false,
+      "quantityLimit": 0,
+      "categoryHierarchy": [
+        "Bath",
+        "Bathroom Faucets",
+        "Shower Systems",
+        "Shower Head Slide Bars"
+      ],
+      "sskMin": null,
+      "sskMax": null,
+      "unitOfMeasureCoverage": null,
+      "wasMaxPriceRange": null,
+      "wasMinPriceRange": null,
+      "isGenericProduct": null,
+      "customerSignal": null,
+      "isBuryProduct": null,
+      "returnable": "90-Day",
+      "hasSubscription": false,
+      "isLiveGoodsProduct": false,
+      "swatches": [
+        {
+          "isSelected": true,
+          "itemId": "328066227",
+          "label": "Brushed Nickel-Round",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/04/04349fe5-6a26-4939-ad6c-136bb9caf021_35.jpg",
+          "url": "/p/EVERSTEIN-3-Spray-Patterns-Round-Fixed-Shower-Head-10-and-6-in-2-5-GPM-Dual-Shower-Heads-in-Brushed-Nickel-Valve-Included-SFS-1058-NK10/328066227",
+          "value": "04349fe5-6a26-4939-ad6c-136bb9caf021",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "328066158",
+          "label": "Matte Black-Round",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/29/29a35775-2396-4430-a9ec-b2afc565a752_35.jpg",
+          "url": "/p/EVERSTEIN-3-Spray-Patterns-Round-Fixed-Shower-Head-10-and-6-in-2-5-GPM-Dual-Shower-Heads-in-Matte-Black-Valve-Included-SFS-1058-BK10/328066158",
+          "value": "29a35775-2396-4430-a9ec-b2afc565a752",
+          "__typename": "Swatch"
+        },
+        {
+          "isSelected": false,
+          "itemId": "328066159",
+          "label": "Brushed Gold-Round",
+          "swatchImgUrl": "https://images.thdstatic.com/catalog/swatchImages/35/46/46774ae7-cf09-4f63-b4e6-a820cc8eef8c_35.jpg",
+          "url": "/p/EVERSTEIN-3-Spray-Patterns-Round-Fixed-Shower-Head-10-and-6-in-2-5-GPM-Dual-Shower-Heads-in-Brushed-Gold-Valve-Included-SFS-1058-GD10/328066159",
+          "value": "46774ae7-cf09-4f63-b4e6-a820cc8eef8c",
+          "__typename": "Swatch"
+        }
+      ],
+      "totalNumberOfOptions": 3,
+      "samplesAvailable": false,
+      "__typename": "Info"
+    },
+    "media": {
+      "images": [
+        {
+          "url": "https://images.thdstatic.com/productImages/93a035c4-daa0-46f8-8eaf-401244997972/svn/brushed-nickel-round-everstein-shower-head-slide-bars-sfs-1058-nk10-64_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "PRIMARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        },
+        {
+          "url": "https://images.thdstatic.com/productImages/a6bf9efd-3211-441b-8761-0a21d8a6d1e4/svn/brushed-nickel-round-everstein-shower-head-slide-bars-sfs-1058-nk10-e4_<SIZE>.jpg",
+          "type": "IMAGE",
+          "subType": "SECONDARY",
+          "sizes": [
+            "65",
+            "100",
+            "145",
+            "300",
+            "400",
+            "600",
+            "1000"
+          ],
+          "__typename": "Image"
+        }
+      ],
+      "__typename": "Media"
+    },
+    "pricing": {
+      "value": 379,
+      "original": 484.03,
+      "alternatePriceDisplay": false,
+      "alternate": {
+        "bulk": null,
+        "unit": {
+          "caseUnitOfMeasure": null,
+          "unitsOriginalPrice": null,
+          "unitsPerCase": 0,
+          "value": null,
+          "__typename": "UnitPricing"
+        },
+        "__typename": "Alternate"
+      },
+      "mapAboveOriginalPrice": null,
+      "mapDetail": null,
+      "message": null,
+      "preferredPriceFlag": false,
+      "promotion": {
+        "type": null,
+        "description": null,
+        "dollarOff": 105.03,
+        "percentageOff": 22,
+        "promotionTag": null,
+        "savingsCenter": "Special Buys",
+        "savingsCenterPromos": "Special Buys",
+        "specialBuySavings": null,
+        "specialBuyDollarOff": null,
+        "specialBuyPercentageOff": null,
+        "dates": null,
+        "experienceTag": null,
+        "subExperienceTag": null,
+        "__typename": "Promotion"
+      },
+      "specialBuy": null,
+      "unitOfMeasure": "each",
+      "conditionalPromotions": [
+        {
+          "promotionId": null,
+          "skuItemGroup": null,
+          "promotionTags": null,
+          "eligibilityCriteria": null,
+          "reward": null,
+          "__typename": "ConditionalPromotion"
+        }
+      ],
+      "clearance": null,
+      "__typename": "Pricing"
+    },
+    "reviews": {
+      "ratingsReviews": {
+        "averageRating": "5.0",
+        "totalReviews": "4",
+        "__typename": "RatingsReviews"
+      },
+      "__typename": "Reviews"
+    },
+    "dataSource": "searchNav",
+    "favoriteDetail": null,
+    "fulfillment": {
+      "anchorStoreStatus": false,
+      "anchorStoreStatusType": "DELETED",
+      "backordered": false,
+      "backorderedShipDate": null,
+      "bossExcludedShipStates": "AK,GU,HI,PR,VI",
+      "excludedShipStates": "AK,GU,HI,PR,VI",
+      "seasonStatusEligible": null,
+      "fulfillmentOptions": [
+        {
+          "type": "pickup",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": null,
+              "deliveryDates": null,
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": false,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": 0,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 112,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "6643",
+                  "state": "CA",
+                  "storeName": "Anaheim Hills",
+                  "storePhone": "(714)921-1215",
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "boss",
+              "totalCharge": null,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": false,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        },
+        {
+          "type": "delivery",
+          "fulfillable": true,
+          "services": [
+            {
+              "deliveryTimeline": "later",
+              "deliveryDates": {
+                "startDate": "2026-10-26",
+                "endDate": "2026-10-26",
+                "__typename": "DeliveryDate"
+              },
+              "deliveryCharge": null,
+              "dynamicEta": null,
+              "hasFreeShipping": true,
+              "freeDeliveryThreshold": null,
+              "locations": [
+                {
+                  "curbsidePickupFlag": null,
+                  "isBuyInStoreCheckNearBy": null,
+                  "distance": null,
+                  "inventory": {
+                    "isOutOfStock": false,
+                    "isInStock": true,
+                    "isLimitedQuantity": false,
+                    "isUnavailable": false,
+                    "quantity": 112,
+                    "maxAllowedBopisQty": null,
+                    "minAllowedBopisQty": null,
+                    "__typename": "Inventory"
+                  },
+                  "isAnchor": true,
+                  "locationId": "8119",
+                  "state": null,
+                  "storeName": null,
+                  "storePhone": null,
+                  "type": "online",
+                  "__typename": "Location"
+                }
+              ],
+              "type": "sth",
+              "totalCharge": 0,
+              "earliestDeliveryDate": null,
+              "deliveryMessage": null,
+              "shipFromFastestLocation": false,
+              "optimalFulfillment": true,
+              "__typename": "Service"
+            }
+          ],
+          "priorityDeliveryOptions": null,
+          "__typename": "FulfillmentOption"
+        }
+      ],
+      "onlineStoreStatus": false,
+      "onlineStoreStatusType": null,
+      "fulfillmentBundleMessage": null,
+      "sthExcludedShipState": null,
+      "__typename": "Fulfillment"
+    },
+    "details": {
+      "collection": {
+        "name": null,
+        "url": null,
+        "__typename": "Collection"
+      },
+      "installation": null,
+      "__typename": "Details"
+    },
+    "taxonomy": {
+      "breadCrumbs": [
+        {
+          "label": "Bath",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Bathroom Faucets",
+          "__typename": "BreadCrumb"
+        },
+        {
+          "label": "Special Values",
+          "__typename": "BreadCrumb"
+        }
+      ],
+      "__typename": "Taxonomy"
+    },
+    "availabilityType": {
+      "type": "Online",
+      "discontinued": false,
+      "buyable": false,
+      "status": false,
+      "__typename": "AvailabilityType"
+    },
+    "bundleFlag": null,
+    "fuelTypeOptions": null,
+    "keyProductFeatures": {
+      "keyProductFeaturesItems": [
+        {
+          "features": [
+            {
+              "name": "Flow rate (gallons per minute)",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "2.5",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Shower Head Shape",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Square",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Features",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "High Pressure",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Wall bar installation",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Shower arm attached",
+              "__typename": "KeyProductFeaturesFeature"
+            },
+            {
+              "name": "Included",
+              "refinementId": null,
+              "refinementUrl": null,
+              "value": "Hand Shower",
+              "__typename": "KeyProductFeaturesFeature"
+            }
+          ],
+          "__typename": "KeyProductFeaturesItem"
+        }
+      ],
+      "__typename": "KeyProductFeatures"
+    },
+    "specificationGroup": null,
+    "bundleItems": null,
+    "__typename": "BaseProduct",
+    "isClearanceItem": false,
+    "categoryTitle": "Bathroom Faucet Savings",
+    "categoryPath": "Bathroom Faucets > Bathroom Faucet Savings",
+    "URL": "https://homedepot.com/p/EVERSTEIN-3-Spray-Patterns-Round-Fixed-Shower-Head-10-and-6-in-2-5-GPM-Dual-Shower-Heads-in-Brushed-Nickel-Valve-Included-SFS-1058-NK10/328066227?store=6643"
   }
 ]

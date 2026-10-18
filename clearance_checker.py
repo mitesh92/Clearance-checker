@@ -1,11 +1,11 @@
-"""Daily clearance checker: Home Depot + Lowe's near ZIP 60188, 70%+ off only.
+"""Daily clearance checker: Home Depot + Lowe's near ZIP 60188, 75%+ off only.
 Uses Apify actors (both stores block plain scraping). Writes docs/index.html + docs/results.json.
 Setup: set env var APIFY_TOKEN. Run: python clearance_checker.py
 """
 import os, json, datetime, html, requests
 
 ZIP = "60188"
-MIN_OFF = 70.0
+MIN_OFF = 75.0
 STATS = {}
 TOKEN = os.environ["APIFY_TOKEN"]
 
@@ -80,13 +80,13 @@ def main():
         f"<div class=c><b>{d['off']}% off</b> · {html.escape(d['store'])}<br>"
         f"<a href='{html.escape(d['url'])}'>{html.escape(d['name'])}</a><br>"
         f"${d['now']} <s>${d['was']}</s> {html.escape(str(d['stock']))}</div>" for d in deals
-    ) or "<p>No 70%+ off items found today.</p>"
+    ) or "<p>No 75%+ off items found today.</p>"
     err = "".join(f"<p class=e>⚠ {html.escape(e)}</p>" for e in errors)
     open("docs/index.html", "w").write(f"""<!doctype html><meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1"><title>Clearance 70%+ · {ZIP}</title>
+<meta name=viewport content="width=device-width,initial-scale=1"><title>Clearance 75%+ · {ZIP}</title>
 <style>body{{font:16px system-ui;max-width:600px;margin:auto;padding:16px}}
 .c{{border:1px solid #8884;border-radius:10px;padding:12px;margin:10px 0}}.e{{color:#c00}}</style>
-<h2>70%+ off clearance · {ZIP}</h2><small>Updated {stamp} · scanned {STATS}</small>{err}{rows}""")
+<h2>75%+ off clearance · {ZIP}</h2><small>Updated {stamp} · scanned {STATS}</small>{err}{rows}""")
     print(f"{len(deals)} deals, {len(errors)} errors")
 
 main()

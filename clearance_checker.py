@@ -6,6 +6,7 @@ import os, json, datetime, html, requests
 
 ZIP = "60188"
 MIN_OFF = 70.0
+STATS = {}
 TOKEN = os.environ["APIFY_TOKEN"]
 
 # Check each actor's "Input" tab on apify.com and adjust these inputs if a field name differs.
@@ -44,8 +45,12 @@ def run(store, cfg):
     url = f"https://api.apify.com/v2/acts/{cfg['actor']}/run-sync-get-dataset-items"
     r = requests.post(url, params={"token": TOKEN}, json=cfg["input"], timeout=900)
     r.raise_for_status()
+    items = r.json()
+    os.makedirs("docs", exist_ok=True)
+    json.dump(items[:5], open(f"docs/raw_{store.split()[0].lower().strip(chr(39))}.json", "w"), indent=2)
+    STATS[store] = len(items)
     deals = []
-    for it in r.json():
+    for it in items:
         off = percent_off(it)
         if off is not None and off >= MIN_OFF:
             deals.append({
@@ -69,7 +74,7 @@ def main():
     deals.sort(key=lambda d: -d["off"])
     stamp = datetime.datetime.now().strftime("%b %d, %Y %I:%M %p")
     os.makedirs("docs", exist_ok=True)
-    json.dump({"updated": stamp, "deals": deals, "errors": errors},
+    json.dump({"updated": stamp, "deals": deals, "errors": errors, "items_scanned": STATS},
               open("docs/results.json", "w"), indent=2)
     rows = "".join(
         f"<div class=c><b>{d['off']}% off</b> · {html.escape(d['store'])}<br>"
@@ -81,7 +86,7 @@ def main():
 <meta name=viewport content="width=device-width,initial-scale=1"><title>Clearance 70%+ · {ZIP}</title>
 <style>body{{font:16px system-ui;max-width:600px;margin:auto;padding:16px}}
 .c{{border:1px solid #8884;border-radius:10px;padding:12px;margin:10px 0}}.e{{color:#c00}}</style>
-<h2>70%+ off clearance · {ZIP}</h2><small>Updated {stamp}</small>{err}{rows}""")
+<h2>70%+ off clearance · {ZIP}</h2><small>Updated {stamp} · scanned {STATS}</small>{err}{rows}""")
     print(f"{len(deals)} deals, {len(errors)} errors")
 
 main()

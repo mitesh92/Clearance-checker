@@ -8,7 +8,7 @@ ZIP = "60188"
 HD_STORE_ID = "1917"      # Home Depot, 295 E Army Trail Rd, Glendale Heights IL 60139
 LOWES_STORE_ID = "1821"   # Lowe's, 400 W Army Trail Rd, Carol Stream IL 60188
 MIN_OFF = 75.0
-HD_MAX_RESULTS = 500   # 0 = unlimited (full scan). Keep 500 for the first test run, then set 0.
+HD_MAX_RESULTS = 0   # 0 = unlimited (full scan). Keep 500 for the first test run, then set 0.
 LOWES_MAX_ITEMS = 500
 # Lowe's has no public clearance page. Add category URLs (must contain /pl/) copied from lowes.com.
 LOWES_URLS = [
